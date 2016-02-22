@@ -1,7 +1,7 @@
-title: Long Haul
+title: Yazeed Alaudah
 description: Long Form Jekyll theme built with SASS / COMPASS / SUSY
 
-url: http://brianmaierjr.github.com/long-haul
+url: http://yalaudah.github.io
 baseurl: ""
 paginate_path: "blog/page:num/"
 permalink: blog/:title/
@@ -14,15 +14,17 @@ paginate: 5
 navigation:
  - title: Home
    url: /index.html
+- title: Publications
+   url: /about
  - title: About
    url: /about
  - title: Contact
    url: /contact
 
 social:
-   github: brianmaierjr
-   twitter: brianmaierjr
+   github: yalaudah
+   twitter: alaudah
    facebook: brianmaierjr
-   email: brimaidesigns@gmail.com
+   email: yalaudah@gmail.com
 
-google_analytics: "UA-58263416-1"
+google_analytics: "UA-74108555-1"
