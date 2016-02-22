@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Hello World"
+date:   2016-02-21
+---
+
+ So this is the first post in the website :smile:. Here's to many more :wine_glass:. 
+
+ I give this plugin two :+1:!
