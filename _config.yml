@@ -14,7 +14,7 @@ paginate: 5
 navigation:
  - title: Home
    url: /index.html
-- title: Publications
+ - title: Publications
    url: /about
  - title: About
    url: /about
