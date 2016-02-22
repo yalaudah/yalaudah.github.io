@@ -6,7 +6,7 @@ baseurl: ""
 paginate_path: "blog/page:num/"
 permalink: blog/:title/
 
-markdown: redcarpet
+markdown: kramdown
 highlighter: rouge
 gems: [jekyll-paginate]
 paginate: 5
@@ -24,7 +24,7 @@ navigation:
 social:
    github: yalaudah
    twitter: alaudah
-   facebook: brianmaierjr
+   linkedin: alaudah
    email: yalaudah@gmail.com
 
 google_analytics: "UA-74108555-1"
