@@ -9,19 +9,19 @@ permalink: blog/:title/
 markdown: kramdown
 highlighter: rouge
 gems: 
-  - [jekyll-paginate]
+  - jekyll-paginate
   - jemoji
 paginate: 5
 
 navigation:
  - title: Home
    url: /index.html
+ - title: Research
+   url: /research
  - title: Publications
-   url: /about
- - title: About
-   url: /about
- - title: Contact
-   url: /contact
+   url: /publications
+ - title: About Me
+   url: /aboutme
 
 social:
    github: yalaudah
