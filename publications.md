@@ -3,7 +3,7 @@ layout: default
 title: Publications
 ---
 
-# Publications
+<h1 class="pageTitle">Publications</h1>
 
 
 {:reversed="reversed"}
