@@ -1,7 +1,7 @@
 title: Yazeed Alaudah
 description: I'm a PhD student at Georgia Tech
 
-url: http://yalaudah.github.io
+url: http://www.yalaudah.com
 baseurl: ""
 paginate_path: "blog/page:num/"
 permalink: blog/:title/
