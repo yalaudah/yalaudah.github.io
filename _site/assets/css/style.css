@@ -801,11 +801,13 @@ dd {
 
 .header h1 {
     margin: 0;
+    padding-left: 2rem;
     letter-spacing: 2px !important;
-    padding-left: 2em;
     font-size: 3.3em ;
     line-height: 3em;
     font-family: "Condiment", Helvetica, Arial, sans-serif;
+    font-weight: 800;
+
 }
 .post .meta,
 .postNav .next,
@@ -814,10 +816,11 @@ dd {
     font-family: "Open Sans", Helvetica, Arial, sans-serif
 }
 .header h1 a {
-    color: #fff;
+    color: white;
     text-decoration: none
 }
 .post .postTitle {
+    text-align: center;
     margin-top: 2rem;
     margin-bottom: 1rem
 }
@@ -828,30 +831,37 @@ dd {
     line-height: 1.8;
     position: relative
 }
-.post blockquote:after,
 .post blockquote:before {
     content: "";
     position: absolute;
+    top: -1.25em;
     background: #69CAF5;
-    height: 3px;
-    width: 250px;
-    left: calc(50% - 125px);
-    display: block
-}
-.post blockquote:before {
-    top: -1.25em
+    display: block;
+    height: 2px;
+    width: 150px;
+    left: calc(50% - 75px)
 }
 .post blockquote:after {
-    bottom: -1.25em
+    content: "";
+    position: absolute;
+    bottom: -1.25em;
+    background: #69CAF5;
+    display: block;
+    height: 2px;
+    width: 150px;
+    left: calc(50% - 75px)
 }
 .post .meta {
+    text-align: center;
     color: gray;
+    font-family: "Open Sans", Helvetica, Arial, sans-serif;
     font-weight: 300
 }
 .post figure {
     margin: 3rem 0
 }
 .post figure figcaption {
+    text-align: center;
     font-size: .9em;
     font-style: italic;
     color: #5e5e5e
@@ -860,12 +870,12 @@ dd {
     margin: 0 auto;
     display: block
 }
-.post .highlight,
 .post img {
     margin-bottom: 2rem
 }
 .post .highlight {
-    clear: both
+    clear: both;
+    margin-bottom: 2rem
 }
 .post .dropcap {
     color: #69CAF5;
