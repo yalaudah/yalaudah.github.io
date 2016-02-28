@@ -1181,7 +1181,7 @@ dd {
     .post .h6 {
         margin: 1rem auto
     }
-    
+
     .post .pageTitle {
         margin: 2rem auto 1em
     }
@@ -1190,7 +1190,7 @@ dd {
         margin-top: 2rem
     }
     .post .featuredImage:before {
-        background: #fff;
+        background: white;
         content: "";
         display: block;
         width: 100%;
@@ -1205,8 +1205,8 @@ dd {
         -ms-transform-origin: bottom left;
         transform-origin: bottom left
     }
-    .postNav .next,
-    .postNav .prev {
+    .postNav .prev,
+    .postNav .next {
         width: 50%
     }
     .postNav .prev {
