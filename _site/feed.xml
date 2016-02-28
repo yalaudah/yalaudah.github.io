@@ -1,1 +1,203 @@
-<?xml version="1.0" encoding="UTF-8"?> <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"> <channel> <title>Yazeed Alaudah</title> <description>I&#39;m a PhD student at Georgia Tech</description> <link>http://www.yalaudah.com/</link> <atom:link href="http://www.yalaudah.com/feed.xml" rel="self" type="application/rss+xml"/> <pubDate>Sun, 28 Feb 2016 03:42:26 -0500</pubDate> <lastBuildDate>Sun, 28 Feb 2016 03:42:26 -0500</lastBuildDate> <generator>Jekyll v3.1.2</generator> <item> <title>Featured Image</title> <description>&lt;script type=&quot;math/tex; mode=display&quot;&gt;x= \sin(\theta)&lt;/script&gt; &lt;p&gt;Bahamontes lanterne rouge normandie belgium. Fred paris-nice arrivere, for omnium commissaire ronde van vlaanderen horizontally stiff but vertically compliant muur, valkenberg jens paris-roubaix. Meyrueis belleville cavendish bianchi, rochefort echelon in soigneur ten dam omloop het volk, bettini aerts! Tour de mont aigoual cat among the pigeons rekelberg omloop het nieuwsblad paris-nice, dwars door vlaanderen coppi the colnago knockteberg anduze.&lt;/p&gt; &lt;p&gt;Kaperij lanterne rouge musette rund um koln bruges thor smash, geraardsbergen riis petacchi molteni pedaling squares. Virenque vande velde, valkenberg gutter pantani parcours gaul domestique, tilford campagnolo around madone. Bruyneel criterium ritte, gorgeous george the trousselier feed zone bruges nokere koerse, parcours gilbert garin? Anquetil valkenberg bettini cat among the pigeons.&lt;/p&gt; &lt;p&gt;Campagnolo the hors delai de wolf as the toto turns venga venga venga, sanchez nys. Pantani hell of the north oude kwaremont nitto koppenberg, tiegemberg van steenbergen lombardie flamme rouge lemond e3 prijs vlaanderen.&lt;/p&gt; &lt;p&gt;Planckaert berg ter stene freire gorgeous george in rouleur derby, vaughters fabianese omloop het volk rouleur play rouleur derby. Bottechia petacchi, milan-san remo van summeren off the back cutters the cassette.&lt;/p&gt; &lt;p&gt;Nyvelocity pyrenees vande velde merckx. La fleche wallonne fixie pau, with muur hors categorie boonen aerts operacion puerto, topsport vlaanderen pereiro randonneur. This greek text is produced by rouleur derby, almost certainly the best fantasy cycling game in the world snob trousselier col du galibier, flanders venga venga venga suitcase of courage cutters kolobnev molenberg.&lt;/p&gt; </description> <description>&lt;script type=&quot;math/tex; mode=display&quot;&gt;x= \sin(\theta)&lt;/script&gt; </description> <pubDate>Sun, 14 Dec 2014 00:00:00 -0500</pubDate> <link>http://www.yalaudah.com/blog/featured-image-copy/</link> <guid isPermaLink="true">http://www.yalaudah.com/blog/featured-image-copy/</guid> </item> <item> <title>Template Post</title> <description>&lt;p class=&quot;intro&quot;&gt;&lt;span class=&quot;dropcap&quot;&gt;L&lt;/span&gt;orem ipsum thor smash liege-bastogne-liege landbouwkrediet ombregt krabbe, rouleur derby is for lovers bonk giro gilbert bidon. Driedaagse de panne-koksijde monte paschi eroica, nevele gimondi berendries off the back cassette tenbosse.&lt;/p&gt; &lt;h1 id=&quot;heading-1&quot;&gt;Heading 1&lt;/h1&gt; &lt;h2 id=&quot;heading-2&quot;&gt;Heading 2&lt;/h2&gt; &lt;h3 id=&quot;heading-3&quot;&gt;Heading 3&lt;/h3&gt; &lt;h4 id=&quot;heading-4&quot;&gt;Heading 4&lt;/h4&gt; &lt;h5 id=&quot;heading-5&quot;&gt;Heading 5&lt;/h5&gt; &lt;h6 id=&quot;heading-6&quot;&gt;Heading 6&lt;/h6&gt; &lt;h3 id=&quot;block-qoute&quot;&gt;Block Qoute:&lt;/h3&gt; &lt;blockquote&gt;Aenean lacinia bibendum nulla sed consectetur. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum. Nulla vitae elit libero, a pharetra augue. Curabitur blandit tempus porttitor. Donec sed odio dui. Cras mattis consectetur purus sit amet fermentum.&lt;/blockquote&gt; &lt;h3 id=&quot;table&quot;&gt;Table&lt;/h3&gt; &lt;table&gt; &lt;thead&gt; &lt;tr&gt; &lt;th&gt;First cell&lt;/th&gt; &lt;th&gt;Second cell&lt;/th&gt; &lt;th&gt;Third cell&lt;/th&gt; &lt;th&gt;fourth cell&lt;/th&gt; &lt;/tr&gt; &lt;/thead&gt; &lt;tbody&gt; &lt;tr&gt; &lt;td&gt;First&lt;/td&gt; &lt;td&gt;Second&lt;/td&gt; &lt;td&gt;Third&lt;/td&gt; &lt;td&gt; &lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;First&lt;/td&gt; &lt;td&gt;Second&lt;/td&gt; &lt;td&gt; &lt;/td&gt; &lt;td&gt;Fourth&lt;/td&gt; &lt;/tr&gt; &lt;/tbody&gt; &lt;/table&gt; &lt;h2 id=&quot;inline-code-tags&quot;&gt;inline code tags:&lt;/h2&gt; &lt;p&gt;To add something like &lt;code class=&quot;highlighter-rouge&quot;&gt;this&lt;/code&gt; or maybe a file such as &lt;code class=&quot;highlighter-rouge&quot;&gt;_layouts&lt;/code&gt;, put your texts in between two of these: `&lt;/p&gt; &lt;h2 id=&quot;display-math&quot;&gt;Display Math&lt;/h2&gt; &lt;script type=&quot;math/tex; mode=display&quot;&gt;x = \dfrac{-b \pm \sqrt{b^2 - 4ac}}{2a}&lt;/script&gt; &lt;script type=&quot;math/tex; mode=display&quot;&gt;\Phi = \sum_{i=1}^{\infty} \phi_x \cdot x_i&lt;/script&gt; &lt;h2 id=&quot;inline-math&quot;&gt;Inline Math&lt;/h2&gt; &lt;p&gt;Given \( sin(x^2) \), we would like to..&lt;/p&gt; &lt;h2 id=&quot;unordered-list&quot;&gt;Unordered List&lt;/h2&gt; &lt;ul&gt; &lt;li&gt;List Item&lt;/li&gt; &lt;li&gt;Longer List Item &lt;ul&gt; &lt;li&gt;Nested List Item&lt;/li&gt; &lt;li&gt;Nested Item&lt;/li&gt; &lt;/ul&gt; &lt;/li&gt; &lt;li&gt;List Item&lt;/li&gt; &lt;/ul&gt; &lt;h2 id=&quot;ordered-list&quot;&gt;Ordered List&lt;/h2&gt; &lt;ol&gt; &lt;li&gt;List Item&lt;/li&gt; &lt;li&gt;Longer List Item &lt;ol&gt; &lt;li&gt;Nested OL Item&lt;/li&gt; &lt;li&gt;Another Nested Item&lt;/li&gt; &lt;/ol&gt; &lt;/li&gt; &lt;li&gt;List Item&lt;/li&gt; &lt;/ol&gt; &lt;h2 id=&quot;definition-list&quot;&gt;Definition List&lt;/h2&gt; &lt;dl&gt; &lt;dt&gt;Coffee&lt;/dt&gt; &lt;dd&gt;Black hot drink&lt;/dd&gt; &lt;dt&gt;Milk&lt;/dt&gt; &lt;dd&gt;White cold drink&lt;/dd&gt; &lt;/dl&gt; &lt;h2 id=&quot;notes&quot;&gt;Notes&lt;/h2&gt; &lt;blockquote&gt; &lt;p&gt;&lt;strong&gt;Note:&lt;/strong&gt; You can find more information: - about &lt;strong&gt;Sequence diagrams&lt;/strong&gt; syntax, - about &lt;strong&gt;Flow charts&lt;/strong&gt; syntax.&lt;/p&gt; &lt;/blockquote&gt; &lt;p&gt;Bold &lt;code class=&quot;highlighter-rouge&quot;&gt;Cmd + B&lt;/code&gt;&lt;/p&gt; &lt;p&gt;Insert Image &lt;code class=&quot;highlighter-rouge&quot;&gt;Cmd + G&lt;/code&gt; Insert Link &lt;code class=&quot;highlighter-rouge&quot;&gt;Cmd + L&lt;/code&gt; Convert Heading &lt;code class=&quot;highlighter-rouge&quot;&gt;Cmd + H&lt;/code&gt;&lt;/p&gt; &lt;p&gt;Bahamontes lanterne rouge normandie belgium. Fred paris-nice arrivere, for omnium commissaire ronde van vlaanderen horizontally stiff but vertically compliant muur, valkenberg jens paris-roubaix. Meyrueis belleville cavendish bianchi, rochefort echelon in soigneur ten dam omloop het volk, bettini aerts! Tour de mont aigoual cat among the pigeons rekelberg omloop het nieuwsblad paris-nice, dwars door vlaanderen coppi the colnago knockteberg anduze.&lt;/p&gt; &lt;p&gt;&lt;img src=&quot;http://static.pexels.com/photos/26754/pexels-photo-26754-large.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt; &lt;p&gt;Kaperij lanterne rouge musette rund um koln bruges thor smash, geraardsbergen riis petacchi molteni pedaling squares. Virenque vande velde, valkenberg gutter pantani parcours gaul domestique, tilford campagnolo around madone. Bruyneel criterium ritte, gorgeous george the trousselier feed zone bruges nokere koerse, parcours gilbert garin? Anquetil valkenberg bettini cat among the pigeons.&lt;/p&gt; &lt;figure&gt; &lt;img src=&quot;/assets/img/touring.jpg&quot; alt=&quot;&quot; /&gt; &lt;figcaption&gt;Fig1. - This is an example figcaption&lt;/figcaption&gt; &lt;/figure&gt; &lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-html&quot; data-lang=&quot;html&quot;&gt;&lt;span class=&quot;nt&quot;&gt;&amp;lt;figure&amp;gt;&lt;/span&gt; &lt;span class=&quot;nt&quot;&gt;&amp;lt;img&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;src=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;/assets/img/touring.jpg&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;alt=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt; &lt;span class=&quot;nt&quot;&gt;&amp;lt;figcaption&amp;gt;&lt;/span&gt;Fig1. - This is an example figcaption&lt;span class=&quot;nt&quot;&gt;&amp;lt;/figcaption&amp;gt;&lt;/span&gt; &lt;span class=&quot;nt&quot;&gt;&amp;lt;/figure&amp;gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt; &lt;p&gt;Campagnolo the hors delai de wolf as the toto turns venga venga venga, sanchez nys. Pantani hell of the north oude kwaremont nitto koppenberg, tiegemberg van steenbergen lombardie flamme rouge lemond e3 prijs vlaanderen.&lt;/p&gt; &lt;p&gt;Planckaert berg ter stene freire gorgeous george in rouleur derby, vaughters fabianese omloop het volk rouleur play rouleur derby. Bottechia petacchi, milan-san remo van summeren off the back cutters the cassette.&lt;/p&gt; &lt;h2 id=&quot;lets-add-an-embeeded-tweet&quot;&gt;Lets add an embeeded tweet!&lt;/h2&gt; &lt;blockquote class=&quot;twitter-tweet&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;Hey! &lt;a href=&quot;https://twitter.com/JekyllConf&quot;&gt;@JekyllConf&lt;/a&gt; is happening this May. Have you submitted a talk idea yet? You should! &lt;a href=&quot;https://t.co/bKXVVrIyJU&quot;&gt;https://t.co/bKXVVrIyJU&lt;/a&gt;&lt;/p&gt;&amp;mdash; jekyll (@jekyllrb) &lt;a href=&quot;https://twitter.com/jekyllrb/status/702301360578891777&quot;&gt;February 24, 2016&lt;/a&gt;&lt;/blockquote&gt; &lt;script async=&quot;&quot; src=&quot;//platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt; &lt;p&gt;Nyvelocity pyrenees vande velde merckx. La fleche wallonne fixie pau, with muur hors categorie boonen aerts operacion puerto, topsport vlaanderen pereiro randonneur. This greek text is produced by rouleur derby, almost certainly the best fantasy cycling game in the world snob trousselier col du galibier, flanders venga venga venga suitcase of courage cutters kolobnev molenberg.&lt;/p&gt; &lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nd&quot;&gt;@requires_authorization&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;somefunc&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;param1&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&#39;&#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;param2&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;):&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;&#39;&#39;&#39;A docstring&#39;&#39;&#39;&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;if&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;param1&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;&amp;gt;&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;param2&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;c&quot;&gt;# interesting&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;print&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;&#39;Greater&#39;&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;return&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;param2&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;-&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;param1&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;+&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;1&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;ow&quot;&gt;or&lt;/span&gt; &lt;span class=&quot;bp&quot;&gt;None&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;class&lt;/span&gt; &lt;span class=&quot;nc&quot;&gt;SomeClass&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;pass&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;&amp;gt;&amp;gt;&amp;gt;&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;message&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;&#39;&#39;&#39;interpreter ... prompt&#39;&#39;&#39;&lt;/span&gt; &lt;/code&gt;&lt;/pre&gt; &lt;/div&gt; &lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/mojombo/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;.&lt;/p&gt; </description> <description>&lt;p class=&quot;intro&quot;&gt;&lt;span class=&quot;dropcap&quot;&gt;L&lt;/span&gt;orem ipsum thor smash liege-bastogne-liege landbouwkrediet ombregt krabbe, rouleur derby is for lovers bonk giro gilbert bidon. Driedaagse de panne-koksijde monte paschi eroica, nevele gimondi berendries off the back cassette tenbosse.&lt;/p&gt; </description> <pubDate>Wed, 10 Dec 2014 00:00:00 -0500</pubDate> <link>http://www.yalaudah.com/blog/template-post/</link> <guid isPermaLink="true">http://www.yalaudah.com/blog/template-post/</guid> </item> </channel> </rss>
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yazeed Alaudah</title>
+    <description>I&#39;m a PhD student at Georgia Tech</description>
+    <link>http://www.yalaudah.com/</link>
+    <atom:link href="http://www.yalaudah.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sun, 28 Feb 2016 04:32:09 -0500</pubDate>
+    <lastBuildDate>Sun, 28 Feb 2016 04:32:09 -0500</lastBuildDate>
+    <generator>Jekyll v3.1.2</generator>
+    
+      
+      <item>
+        <title>Featured Image</title>
+        <description>&lt;script type=&quot;math/tex; mode=display&quot;&gt;x= \sin(\theta)&lt;/script&gt;
+
+&lt;p&gt;Bahamontes lanterne rouge normandie belgium. Fred paris-nice arrivere, for omnium commissaire ronde van vlaanderen horizontally stiff but vertically compliant muur, valkenberg jens paris-roubaix. Meyrueis belleville cavendish bianchi, rochefort echelon in soigneur ten dam omloop het volk, bettini aerts! Tour de mont aigoual cat among the pigeons rekelberg omloop het nieuwsblad paris-nice, dwars door vlaanderen coppi the colnago knockteberg anduze.&lt;/p&gt;
+
+&lt;p&gt;Kaperij lanterne rouge musette rund um koln bruges thor smash, geraardsbergen riis petacchi molteni pedaling squares. Virenque vande velde, valkenberg gutter pantani parcours gaul domestique, tilford campagnolo around madone. Bruyneel criterium ritte, gorgeous george the trousselier feed zone bruges nokere koerse, parcours gilbert garin? Anquetil valkenberg bettini cat among the pigeons.&lt;/p&gt;
+
+&lt;p&gt;Campagnolo the hors delai de wolf as the toto turns venga venga venga, sanchez nys. Pantani hell of the north oude kwaremont nitto koppenberg, tiegemberg van steenbergen lombardie flamme rouge lemond e3 prijs vlaanderen.&lt;/p&gt;
+
+&lt;p&gt;Planckaert berg ter stene freire gorgeous george in rouleur derby, vaughters fabianese omloop het volk rouleur play rouleur derby. Bottechia petacchi, milan-san remo van summeren off the back cutters the cassette.&lt;/p&gt;
+
+&lt;p&gt;Nyvelocity pyrenees vande velde merckx. La fleche wallonne fixie pau, with muur hors categorie boonen aerts operacion puerto, topsport vlaanderen pereiro randonneur. This greek text is produced by rouleur derby, almost certainly the best fantasy cycling game in the world snob trousselier col du galibier, flanders venga venga venga suitcase of courage cutters kolobnev molenberg.&lt;/p&gt;
+</description>
+        
+          <description>&lt;script type=&quot;math/tex; mode=display&quot;&gt;x= \sin(\theta)&lt;/script&gt;
+
+</description>
+        
+        <pubDate>Sun, 14 Dec 2014 00:00:00 -0500</pubDate>
+        <link>http://www.yalaudah.com/blog/featured-image-copy/</link>
+        <guid isPermaLink="true">http://www.yalaudah.com/blog/featured-image-copy/</guid>
+        
+        
+      </item>
+      
+    
+      
+      <item>
+        <title>Template Post</title>
+        <description>&lt;p class=&quot;intro&quot;&gt;&lt;span class=&quot;dropcap&quot;&gt;L&lt;/span&gt;orem ipsum thor smash liege-bastogne-liege landbouwkrediet ombregt krabbe, rouleur derby is for lovers bonk giro gilbert bidon. Driedaagse de panne-koksijde monte paschi eroica, nevele gimondi berendries off the back cassette tenbosse.&lt;/p&gt;
+
+&lt;h1 id=&quot;heading-1&quot;&gt;Heading 1&lt;/h1&gt;
+
+&lt;h2 id=&quot;heading-2&quot;&gt;Heading 2&lt;/h2&gt;
+
+&lt;h3 id=&quot;heading-3&quot;&gt;Heading 3&lt;/h3&gt;
+
+&lt;h4 id=&quot;heading-4&quot;&gt;Heading 4&lt;/h4&gt;
+
+&lt;h5 id=&quot;heading-5&quot;&gt;Heading 5&lt;/h5&gt;
+
+&lt;h6 id=&quot;heading-6&quot;&gt;Heading 6&lt;/h6&gt;
+
+&lt;h3 id=&quot;block-qoute&quot;&gt;Block Qoute:&lt;/h3&gt;
+&lt;blockquote&gt;Aenean lacinia bibendum nulla sed consectetur. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum. Nulla vitae elit libero, a pharetra augue. Curabitur blandit tempus porttitor. Donec sed odio dui. Cras mattis consectetur purus sit amet fermentum.&lt;/blockquote&gt;
+
+&lt;h3 id=&quot;table&quot;&gt;Table&lt;/h3&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;First cell&lt;/th&gt;
+      &lt;th&gt;Second cell&lt;/th&gt;
+      &lt;th&gt;Third cell&lt;/th&gt;
+      &lt;th&gt;fourth cell&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;First&lt;/td&gt;
+      &lt;td&gt;Second&lt;/td&gt;
+      &lt;td&gt;Third&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;First&lt;/td&gt;
+      &lt;td&gt;Second&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt;Fourth&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h2 id=&quot;inline-code-tags&quot;&gt;inline code tags:&lt;/h2&gt;
+
+&lt;p&gt;To add something like &lt;code class=&quot;highlighter-rouge&quot;&gt;this&lt;/code&gt; or maybe a file such as &lt;code class=&quot;highlighter-rouge&quot;&gt;_layouts&lt;/code&gt;, put your texts in between two of these: `&lt;/p&gt;
+
+&lt;h2 id=&quot;display-math&quot;&gt;Display Math&lt;/h2&gt;
+
+&lt;script type=&quot;math/tex; mode=display&quot;&gt;x = \dfrac{-b \pm \sqrt{b^2 - 4ac}}{2a}&lt;/script&gt;
+
+&lt;script type=&quot;math/tex; mode=display&quot;&gt;\Phi  = \sum_{i=1}^{\infty} \phi_x \cdot x_i&lt;/script&gt;
+
+&lt;h2 id=&quot;inline-math&quot;&gt;Inline Math&lt;/h2&gt;
+
+&lt;p&gt;Given \( sin(x^2) \), we would like to..&lt;/p&gt;
+
+&lt;h2 id=&quot;unordered-list&quot;&gt;Unordered List&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;List Item&lt;/li&gt;
+  &lt;li&gt;Longer List Item
+    &lt;ul&gt;
+      &lt;li&gt;Nested List Item&lt;/li&gt;
+      &lt;li&gt;Nested Item&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;List Item&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;ordered-list&quot;&gt;Ordered List&lt;/h2&gt;
+&lt;ol&gt;
+  &lt;li&gt;List Item&lt;/li&gt;
+  &lt;li&gt;Longer List Item
+    &lt;ol&gt;
+      &lt;li&gt;Nested OL Item&lt;/li&gt;
+      &lt;li&gt;Another Nested Item&lt;/li&gt;
+    &lt;/ol&gt;
+  &lt;/li&gt;
+  &lt;li&gt;List Item&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&quot;definition-list&quot;&gt;Definition List&lt;/h2&gt;
+&lt;dl&gt;
+  &lt;dt&gt;Coffee&lt;/dt&gt;
+  &lt;dd&gt;Black hot drink&lt;/dd&gt;
+  &lt;dt&gt;Milk&lt;/dt&gt;
+  &lt;dd&gt;White cold drink&lt;/dd&gt;
+&lt;/dl&gt;
+
+&lt;h2 id=&quot;notes&quot;&gt;Notes&lt;/h2&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;strong&gt;Note:&lt;/strong&gt; You can find more information: 
+- about &lt;strong&gt;Sequence diagrams&lt;/strong&gt; syntax,
+- about &lt;strong&gt;Flow charts&lt;/strong&gt; syntax.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Bold    &lt;code class=&quot;highlighter-rouge&quot;&gt;Cmd + B&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;Insert Image    &lt;code class=&quot;highlighter-rouge&quot;&gt;Cmd + G&lt;/code&gt;
+Insert Link    &lt;code class=&quot;highlighter-rouge&quot;&gt;Cmd + L&lt;/code&gt;
+Convert Heading    &lt;code class=&quot;highlighter-rouge&quot;&gt;Cmd + H&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;Bahamontes lanterne rouge normandie belgium. Fred paris-nice arrivere, for omnium commissaire ronde van vlaanderen horizontally stiff but vertically compliant muur, valkenberg jens paris-roubaix. Meyrueis belleville cavendish bianchi, rochefort echelon in soigneur ten dam omloop het volk, bettini aerts! Tour de mont aigoual cat among the pigeons rekelberg omloop het nieuwsblad paris-nice, dwars door vlaanderen coppi the colnago knockteberg anduze.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://static.pexels.com/photos/26754/pexels-photo-26754-large.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Kaperij lanterne rouge musette rund um koln bruges thor smash, geraardsbergen riis petacchi molteni pedaling squares. Virenque vande velde, valkenberg gutter pantani parcours gaul domestique, tilford campagnolo around madone. Bruyneel criterium ritte, gorgeous george the trousselier feed zone bruges nokere koerse, parcours gilbert garin? Anquetil valkenberg bettini cat among the pigeons.&lt;/p&gt;
+
+&lt;figure&gt;
+    &lt;img src=&quot;/assets/img/touring.jpg&quot; alt=&quot;&quot; /&gt; 
+    &lt;figcaption&gt;Fig1. - This is an example figcaption&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-html&quot; data-lang=&quot;html&quot;&gt;&lt;span class=&quot;nt&quot;&gt;&amp;lt;figure&amp;gt;&lt;/span&gt;
+    &lt;span class=&quot;nt&quot;&gt;&amp;lt;img&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;src=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;/assets/img/touring.jpg&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;alt=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt; 
+    &lt;span class=&quot;nt&quot;&gt;&amp;lt;figcaption&amp;gt;&lt;/span&gt;Fig1. - This is an example figcaption&lt;span class=&quot;nt&quot;&gt;&amp;lt;/figcaption&amp;gt;&lt;/span&gt;
+&lt;span class=&quot;nt&quot;&gt;&amp;lt;/figure&amp;gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;p&gt;Campagnolo the hors delai de wolf as the toto turns venga venga venga, sanchez nys. Pantani hell of the north oude kwaremont nitto koppenberg, tiegemberg van steenbergen lombardie flamme rouge lemond e3 prijs vlaanderen.&lt;/p&gt;
+
+&lt;p&gt;Planckaert berg ter stene freire gorgeous george in rouleur derby, vaughters fabianese omloop het volk rouleur play rouleur derby. Bottechia petacchi, milan-san remo van summeren off the back cutters the cassette.&lt;/p&gt;
+
+&lt;h2 id=&quot;lets-add-an-embeeded-tweet&quot;&gt;Lets add an embeeded tweet!&lt;/h2&gt;
+&lt;blockquote class=&quot;twitter-tweet&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;Hey! &lt;a href=&quot;https://twitter.com/JekyllConf&quot;&gt;@JekyllConf&lt;/a&gt; is happening this May. Have you submitted a talk idea yet? You should! &lt;a href=&quot;https://t.co/bKXVVrIyJU&quot;&gt;https://t.co/bKXVVrIyJU&lt;/a&gt;&lt;/p&gt;&amp;mdash; jekyll (@jekyllrb) &lt;a href=&quot;https://twitter.com/jekyllrb/status/702301360578891777&quot;&gt;February 24, 2016&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async=&quot;&quot; src=&quot;//platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+
+&lt;p&gt;Nyvelocity pyrenees vande velde merckx. La fleche wallonne fixie pau, with muur hors categorie boonen aerts operacion puerto, topsport vlaanderen pereiro randonneur. This greek text is produced by rouleur derby, almost certainly the best fantasy cycling game in the world snob trousselier col du galibier, flanders venga venga venga suitcase of courage cutters kolobnev molenberg.&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nd&quot;&gt;@requires_authorization&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;somefunc&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;param1&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&#39;&#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;param2&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;):&lt;/span&gt;
+    &lt;span class=&quot;s&quot;&gt;&#39;&#39;&#39;A docstring&#39;&#39;&#39;&lt;/span&gt;
+    &lt;span class=&quot;k&quot;&gt;if&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;param1&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;&amp;gt;&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;param2&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;c&quot;&gt;# interesting&lt;/span&gt;
+        &lt;span class=&quot;k&quot;&gt;print&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;&#39;Greater&#39;&lt;/span&gt;
+    &lt;span class=&quot;k&quot;&gt;return&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;param2&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;-&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;param1&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;+&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;1&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;ow&quot;&gt;or&lt;/span&gt; &lt;span class=&quot;bp&quot;&gt;None&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;class&lt;/span&gt; &lt;span class=&quot;nc&quot;&gt;SomeClass&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;
+    &lt;span class=&quot;k&quot;&gt;pass&lt;/span&gt;
+&lt;span class=&quot;o&quot;&gt;&amp;gt;&amp;gt;&amp;gt;&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;message&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;&#39;&#39;&#39;interpreter
+... prompt&#39;&#39;&#39;&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/mojombo/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;.&lt;/p&gt;
+
+</description>
+        
+          <description>&lt;p class=&quot;intro&quot;&gt;&lt;span class=&quot;dropcap&quot;&gt;L&lt;/span&gt;orem ipsum thor smash liege-bastogne-liege landbouwkrediet ombregt krabbe, rouleur derby is for lovers bonk giro gilbert bidon. Driedaagse de panne-koksijde monte paschi eroica, nevele gimondi berendries off the back cassette tenbosse.&lt;/p&gt;
+
+</description>
+        
+        <pubDate>Wed, 10 Dec 2014 00:00:00 -0500</pubDate>
+        <link>http://www.yalaudah.com/blog/template-post/</link>
+        <guid isPermaLink="true">http://www.yalaudah.com/blog/template-post/</guid>
+        
+        
+      </item>
+      
+    
+  </channel>
+</rss>

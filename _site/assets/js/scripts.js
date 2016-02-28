@@ -1,1 +1,18 @@
-$(document).ready(function(){var a=document.querySelectorAll(".dropcap");window.Dropcap.layout(a,2);var b=responsiveNav(".nav-collapse");$(".time").text(function(c,d){return Math.round(parseFloat(d));});});
+// A $( document ).ready() block.
+$( document ).ready(function() {
+
+	// DropCap.js
+	var dropcaps = document.querySelectorAll(".dropcap");
+	window.Dropcap.layout(dropcaps, 2);
+
+	// Responsive-Nav
+	var nav = responsiveNav(".nav-collapse");
+
+	// Round Reading Time
+    $(".time").text(function (index, value) {
+      return Math.round(parseFloat(value));
+    });
+
+});
+
+
