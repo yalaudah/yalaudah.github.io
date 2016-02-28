@@ -11,6 +11,7 @@ highlighter: rouge
 gems: 
   - jekyll-paginate
   - jemoji
+  - jekyll-minifier
 paginate: 5
 
 navigation:
