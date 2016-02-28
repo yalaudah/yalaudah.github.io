@@ -755,33 +755,35 @@ a:hover {
     background-color: #006FA1
 }
 .noList {
+    list-style: none;
     padding-left: 0;
     margin-left: 0
 }
 dt {
-    font-weight: 700
+    font-weight: bold
 }
 dd {
     margin: 0 0 1.5rem
 }
-.post ol ol,
-.post ol ul,
+.post ul ul,
 .post ul ol,
-.post ul ul {
+.post ol ul,
+.post ol ol {
     margin: 0
 }
 .pageTitle {
-    margin: 2rem auto 1em
+    margin: 2rem auto 1em;
+    text-align: center
 }
 .content {
     padding-top: 1em
 }
 .header {
     background-color: #69CAF5;
-    background-image: url(../img/touring.jpg);
+    background-image: url("../img/touring.jpg");
     background-size: cover;
     background-position: center center;
-    color: #fff;
+    color: white;
     padding: 0;
     height: 3em
 }
@@ -791,13 +793,19 @@ dd {
     margin-left: auto;
     margin-right: auto
 }
+.header .container:after {
+    content: " ";
+    display: block;
+    clear: both
+}
+
 .header h1 {
     margin: 0;
     letter-spacing: 2px !important;
     padding-left: 2em;
     font-size: 3.3em ;
     line-height: 3em;
-    font-family: Condiment, Helvetica, Arial, sans-serif;
+    font-family: "Condiment", Helvetica, Arial, sans-serif;
 }
 .post .meta,
 .postNav .next,
