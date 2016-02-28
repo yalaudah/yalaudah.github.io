@@ -20,7 +20,7 @@ title: Publications
 
 0. **Y. Alaudah**, M. Shafiq, and G. AlRegib, “A Hybrid Spatio-Frequency Approach for Delineating Subsurface Structures in Seismic Volumes,” *SIAM conference on Imaging Science*, New Mexico, USA, May 23-26, 2016.
 
-0. Z. Long, **Y. Alaudah**, M. Qureshi, M. Farraj, Z. Wang, A. Amin, M. Deriche, and G. AlRegib, "Characterization of migrated seismic volumes using texture attributes: a comparative study," *Expanded Abstracts of the SEG 85th Annual Meeting*, pp. 1744-1748, New Orleans, Louisiana, Oct. 18-23, 2015.
+0. Z. Long, **Y. Alaudah**, M. Qureshi, M. Farraj, Z. Wang, A. Amin, M. Deriche, and G. AlRegib, "Characterization of migrated seismic volumes using texture attributes: a comparative study," *Expanded Abstracts of the SEG 85th Annual Meeting*, pp. 1744-1748, New Orleans, Louisiana, Oct. 18-23, 2015.[[**PDF**](http://cegp.ece.gatech.edu/publications/conference/Long_SEG2015.pdf)]
 
 0. **Y. Alaudah** and G. AlRegib, "A curvelet-based distance measure for seismic images," *Image Processing (ICIP), 2015 IEEE International Conference on*, Quebec City, QC, 2015, pp. 4200-4204.
 
