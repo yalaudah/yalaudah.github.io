@@ -13,9 +13,6 @@ gems:
   - jemoji
 paginate: 5
 
-sass:
-   sass_dir: assets/scss
-   style: compressed
 
 navigation:
  - title: Home
