@@ -845,12 +845,6 @@ dd {
     font-weight: 800;
 
 }
-.post .meta,
-.postNav .next,
-.postNav .prev,
-.posts li .date {
-    font-family: "Open Sans", Helvetica, Arial, sans-serif
-}
 .header h1 a {
     color: white;
     text-decoration: none
