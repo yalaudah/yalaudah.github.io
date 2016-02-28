@@ -170,6 +170,10 @@ pre,
 samp {
     font-family: monospace, monospace;
     font-size: 1em
+
+    background-color: black;
+
+    color: blue
 }
 form {
     margin: 0
@@ -1138,7 +1142,7 @@ dd {
     }
     .header nav ul li a {
         color: white;
-        font-size: .9em;
+        font-size: 1em;
         text-decoration: none;
         padding: 0 .25em
     }

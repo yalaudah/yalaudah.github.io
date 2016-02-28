@@ -2,11 +2,12 @@
 layout: post
 title:  "Template Post"
 date:   2014-12-10
-comments: true
 ---
 
 
 <p class="intro"><span class="dropcap">L</span>orem ipsum thor smash liege-bastogne-liege landbouwkrediet ombregt krabbe, rouleur derby is for lovers bonk giro gilbert bidon. Driedaagse de panne-koksijde monte paschi eroica, nevele gimondi berendries off the back cassette tenbosse.</p>
+
+
 
 
 # Heading 1
@@ -26,11 +27,6 @@ comments: true
 
 
 ### Table
- Item      |    Value | Qty  
- :-------- | --------:| :--: 
- Computer  | 1600 USD |  5   
- Phone     |   12 USD |  12  
- Pipe      |    1 USD | 234  
 
 
 | First cell | Second cell|Third cell | fourth cell
@@ -40,8 +36,9 @@ First | Second | | Fourth |
 
 
 
-Nullam quis risus eget urna mollis ornare vel eu leo. Cras mattis consectetur purus sit amet fermentum. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor.
+## inline code tags:
 
+To add something like `this` or maybe a file such as `_layouts`, put your texts in between two of these: `
 
 
 ## Display Math 
