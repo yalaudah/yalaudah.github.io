@@ -79,49 +79,59 @@ abbr[title] {
     border-bottom: 1px dotted
 }
 b,
-optgroup,
 strong {
-    font-weight: 700
+    font-weight: bold
 }
-blockquote,
-figure {
+blockquote {
     margin: 1.5em 40px
 }
+dfn {
+    font-style: italic
+}
 h1 {
-    margin-top: .75em;
-    margin-bottom: .75em
+    font-size: 2em;
+    line-height: 1.5em;
+    margin-top: 0.75em;
+    margin-bottom: 0.75em
 }
 h2 {
+    font-size: 1.5em;
+    line-height: 2em;
     margin-top: 1em;
     margin-bottom: 1em
 }
 h3 {
+    font-size: 1.17em;
+    line-height: 1.28205em;
     margin-top: 1.28205em;
     margin-bottom: 1.28205em
 }
 h4 {
+    font-size: 1em;
+    line-height: 1.5em;
     margin-top: 1.5em;
     margin-bottom: 1.5em
 }
 h5 {
-    font-size: .83em;
+    font-size: 0.83em;
     line-height: 1.80723em;
     margin-top: 1.80723em;
     margin-bottom: 1.80723em
 }
 h6 {
-    font-size: .67em;
+    font-size: 0.67em;
     line-height: 2.23881em;
     margin-top: 2.23881em;
     margin-bottom: 2.23881em
 }
+
 mark {
     background: #ff0;
     color: #000
 }
 p,
 pre {
-    margin: 1em 0
+    margin: 1.5em 0
 }
 small {
     font-size: 80%
@@ -134,10 +144,10 @@ sup {
     vertical-align: baseline
 }
 sup {
-    top: -.5em
+    top: -0.5em
 }
 sub {
-    bottom: -.25em
+    bottom: -0.25em
 }
 dl,
 menu,
@@ -145,10 +155,18 @@ ol,
 ul {
     margin: 1.5em 0
 }
+dd {
+    margin: 0 0 0 40px
+}
 menu,
 ol,
 ul {
     padding: 0 0 0 40px
+}
+nav ul,
+nav ol {
+    list-style: none;
+    list-style-image: none
 }
 img {
     border: 0;
@@ -156,6 +174,14 @@ img {
 }
 svg:not(:root) {
     overflow: hidden
+}
+
+
+
+
+
+figure {
+    margin: 1.5em 40px
 }
 hr {
     -moz-box-sizing: content-box;
@@ -175,6 +201,13 @@ samp {
     color: #69CAF5;
     border-radius: 3px
 }
+form {
+    margin: 0
+}
+
+
+
+
 button,
 input,
 optgroup,
@@ -182,7 +215,9 @@ select,
 textarea {
     color: inherit;
     font: inherit;
-    margin: 0
+    margin: 0;
+    *font-family: sans-serif;
+    *vertical-align: middle
 }
 button {
     overflow: visible
@@ -192,11 +227,12 @@ select {
     text-transform: none
 }
 button,
-html input[type=button],
-input[type=reset],
-input[type=submit] {
+html input[type="button"],
+input[type="reset"],
+input[type="submit"] {
     -webkit-appearance: button;
-    cursor: pointer
+    cursor: pointer;
+    *overflow: visible
 }
 button[disabled],
 html input[disabled] {
@@ -210,36 +246,63 @@ input::-moz-focus-inner {
 input {
     line-height: normal
 }
-input[type=checkbox],
-input[type=radio] {
+input[type="checkbox"],
+input[type="radio"] {
     -moz-box-sizing: border-box;
     -webkit-box-sizing: border-box;
     box-sizing: border-box;
-    padding: 0
+    padding: 0;
+    *height: 13px;
+    *width: 13px
 }
-input[type=number]::-webkit-inner-spin-button,
-input[type=number]::-webkit-outer-spin-button {
+input[type="number"]::-webkit-inner-spin-button,
+input[type="number"]::-webkit-outer-spin-button {
     height: auto
 }
-input[type=search] {
+input[type="search"] {
     -webkit-appearance: textfield;
     -moz-box-sizing: content-box;
     -webkit-box-sizing: content-box;
     box-sizing: content-box
 }
-input[type=search]::-webkit-search-cancel-button,
-input[type=search]::-webkit-search-decoration {
+input[type="search"]::-webkit-search-cancel-button,
+input[type="search"]::-webkit-search-decoration {
     -webkit-appearance: none
 }
 fieldset {
     margin: 0 2px;
-    border-color: silver;
-    border-width: .0625em;
-    border-style: solid;
-    padding: .4625em .875em .9125em
+    border-color: #c0c0c0;
+    border-top-width: 0.0625em;
+    border-top-style: solid;
+    padding-top: 0.4625em;
+    border-bottom-width: 0.0625em;
+    border-bottom-style: solid;
+    padding-bottom: 0.9125em;
+    border-left-width: 0.0625em;
+    border-left-style: solid;
+    padding-left: 0.875em;
+    border-right-width: 0.0625em;
+    border-right-style: solid;
+    padding-right: 0.875em
 }
 legend {
-    border: 0
+    border: 0;
+    padding: 0;
+    *margin-left: -7px
+}
+textarea {
+    overflow: auto
+}
+optgroup {
+    font-weight: bold
+}
+table {
+    border-collapse: collapse;
+    border-spacing: 0
+}
+td,
+th {
+    padding: 0
 }
 .button,
 .button-secondary,
@@ -265,21 +328,21 @@ legend {
     transition: background-color .14s ease-in-out
 }
 
-.button-secondary:focus,
-.button-secondary:hover,
-.button-tertiary:focus,
-.button-tertiary:hover,
-.button:focus,
 .button:hover,
-.button__outline:focus,
-.button__outline:hover {
+.button-secondary:hover,
+.button-tertiary:hover,
+.button__outline:hover,
+.button:focus,
+.button-secondary:focus,
+.button-tertiary:focus,
+.button__outline:focus {
     color: #fff;
     text-decoration: none;
     background-color: #006FA1
 }
+.button:active,
 .button-secondary:active,
 .button-tertiary:active,
-.button:active,
 .button__outline:active {
     top: 1px
 }
@@ -343,7 +406,6 @@ textarea.full-width {
     width: 100%
 }
 textarea {
-    overflow: auto;
     height: 132px
 }
 form {
