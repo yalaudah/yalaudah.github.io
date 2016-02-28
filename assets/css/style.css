@@ -893,20 +893,21 @@ dd {
     border-bottom: 1px solid #e6e6e6;
     overflow: hidden
 }
-.postNav .next,
-.postNav .prev {
+.postNav .prev,
+.postNav .next {
     display: block;
     width: 100%;
     height: 5rem;
     overflow: hidden;
     position: relative;
+    font-family: "Open Sans", Helvetica, Arial, sans-serif;
     font-weight: 800;
     font-size: .9em;
     text-transform: uppercase;
     text-align: center
 }
-.postNav .next img,
-.postNav .prev img {
+.postNav .prev img,
+.postNav .next img {
     z-index: 1;
     display: block;
     position: absolute;
@@ -918,9 +919,10 @@ dd {
     width: 100%;
     . height: auto
 }
-.postNav .next span,
-.postNav .prev span {
+.postNav .prev span,
+.postNav .next span {
     z-index: 10;
+    position: relative;
     padding: .5rem;
     position: absolute;
     top: 50%;
@@ -930,16 +932,18 @@ dd {
     width: 100%;
     line-height: 1.4
 }
-.postNav .next.image,
-.postNav .prev.image {
-    color: #fff;
-    text-shadow: 1px 1px 3px rgba(0, 0, 0, .8);
+.postNav .prev.image,
+.postNav .next.image {
+    text-decoration: none;
+    color: white;
+    text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.8);
     padding: 0 .5rem;
     position: relative;
-    transition: all .2s ease-in-out
+    -webkit-transition: all 0.2s ease-in-out;
+    transition: all 0.2s ease-in-out
 }
-.postNav .next:hover.image,
-.postNav .prev:hover.image {
+.postNav .prev:hover.image,
+.postNav .next:hover.image {
     opacity: .8
 }
 .postNav .prev span {
@@ -949,6 +953,7 @@ dd {
     right: 0
 }
 .footer {
+    text-align: center;
     padding: 2rem 0
 }
 .footer .container {
@@ -970,6 +975,9 @@ dd {
 .footer .copy {
     margin-bottom: 1rem
 }
+.footer-links ul {
+    text-align: center
+}
 .footer-links ul li {
     display: inline-block
 }
@@ -977,8 +985,8 @@ dd {
     display: inline-block;
     width: 30px;
     height: 30px;
-    -webkit-transition: all .2s ease-in-out;
-    transition: all .2s ease-in-out
+    -webkit-transition: all 0.2s ease-in-out;
+    transition: all 0.2s ease-in-out
 }
 .footer-links ul li a svg {
     display: block;
@@ -989,14 +997,19 @@ dd {
     fill: #69CAF5
 }
 .footer-links ul li a svg .inner-shape {
-    fill: #fff
+    fill: white
 }
 .footer-links ul li:hover a svg .outer-shape {
     fill: #006FA1
 }
-.pagination .previous {
+.pagination .next {
     float: right
 }
+.pagination .previous {
+    float: left
+}
+
+
 .posts li {
     margin-bottom: 4rem;
     position: relative
@@ -1018,6 +1031,7 @@ dd {
 }
 .posts li .date {
     color: gray;
+    font-family: "Open Sans", Helvetica, Arial, sans-serif;
     font-weight: 300;
     font-size: .8em
 }
@@ -1032,7 +1046,7 @@ dd {
     }
     .content:after {
         z-index: -1;
-        background: #fff;
+        background: white;
         content: "";
         display: block;
         width: 100%;
@@ -1047,22 +1061,23 @@ dd {
         -ms-transform-origin: bottom left;
         transform-origin: bottom left
     }
-    .container:after,
-    .header .container:after {
-        content: " ";
-        display: block;
-        clear: both
-    }
     .container {
         max-width: 800px;
         margin-left: auto;
         margin-right: auto;
         padding: 0
     }
+    .container:after {
+        content: " ";
+        display: block;
+        clear: both
+    }
+    #home .posts,
     #home .pageTitle,
-    #home .pagination,
-    #home .posts {
+    #home .pagination {
         width: 74.46809%;
+        float: left;
+        margin-right: 2.12766%;
         float: none;
         margin: 0 auto 1.5em
     }
@@ -1083,6 +1098,11 @@ dd {
         max-width: 800px;
         margin-left: auto;
         margin-right: auto
+    }
+    .header .container:after {
+        content: " ";
+        display: block;
+        clear: both
     }
     .header h1 {
         font-size: 3em;
@@ -1105,8 +1125,8 @@ dd {
         border: none
     }
     .header nav ul li a {
-        color: #fff;
-        font-size: 1em;
+        color: white;
+        font-size: 0.9em;
         text-decoration: none;
         padding: 0 .25em
     }
@@ -1130,35 +1150,38 @@ dd {
     .nav-toggle {
         display: none
     }
-    .post .pageTitle,
-    .post dl,
     .post h1,
     .post h2,
     .post h3,
     .post h4,
     .post h5,
     .post h6,
-    .post ol,
     .post p,
-    .post ul {
+    .post ul,
+    .post ol,
+    .post dl,
+    .post .pageTitle {
         width: 74.46809%;
+        float: left;
+        margin-right: 2.12766%;
         float: none;
         margin: 0 auto 2rem
     }
-    .post .h1,
-    .post .h2,
-    .post .h3,
-    .post .h4,
-    .post .h5,
-    .post .h6,
     .post h1,
+    .post .h1,
     .post h2,
+    .post .h2,
     .post h3,
+    .post .h3,
     .post h4,
+    .post .h4,
     .post h5,
-    .post h6 {
+    .post .h5,
+    .post h6,
+    .post .h6 {
         margin: 1rem auto
     }
+    
     .post .pageTitle {
         margin: 2rem auto 1em
     }
