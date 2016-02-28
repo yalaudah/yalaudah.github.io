@@ -30,8 +30,6 @@ summary {
     display: block
 }
     
-
-
 audio:not([controls]) {
     display: none;
     height: 0
@@ -838,12 +836,11 @@ dd {
 .header h1 {
     margin: 0;
     padding-left: 2rem;
-    letter-spacing: 2px;
+    letter-spacing: 2px  !important;
     font-size: 1em ;
     line-height: 3em;
     font-family: "Condiment", Helvetica, Arial, sans-serif;
     font-weight: 800;
-
 }
 .header h1 a {
     color: white;
