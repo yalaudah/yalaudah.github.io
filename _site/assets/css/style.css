@@ -1,5 +1,7 @@
 @import url(http://fonts.googleapis.com/css?family=Open+Sans:300,400,800);
 @import url(https://fonts.googleapis.com/css?family=Lora:400,400italic,700,700italic);
+@import url(https://fonts.googleapis.com/css?family=Condiment);
+
 html {
     font-size: 100%;
     line-height: 1.5em
@@ -108,7 +110,7 @@ mark {
 }
 p,
 pre {
-    margin: 1.5em 0
+    margin: 1em 0
 }
 small {
     font-size: 80%
@@ -161,6 +163,9 @@ hr {
     box-sizing: content-box;
     height: 0
 }
+
+
+
 pre {
     overflow: auto
 }
@@ -168,13 +173,20 @@ code,
 kbd,
 pre,
 samp {
-    font-family: monospace, monospace;
-    font-size: 1em
-
-    background-color: black;
-
-    color: blue
+font-family: monospace, monospace;
+    font-size: 1em 
+    padding: 0.5em 0.5em;
+    color: #69CAF5;
+    background-color: transparent;
+    *border: 1px solid #CBA;
+   border-radius: 3px;
 }
+
+
+
+
+
+
 form {
     margin: 0
 }
@@ -826,12 +838,13 @@ dd {
 .header h1 {
     margin: 0;
     float: left;
-    padding-left: 2rem;
-    font-size: 1em;
+    letter-spacing: 1px !important;
+    padding-left: 2em;
+    font-size: 3.3em !important;;
     line-height: 3em;
-    font-family: "Open Sans", Helvetica, Arial, sans-serif;
+    font-family: "Condiment", Helvetica, Arial, sans-serif; 
     font-weight: 800;
-    text-transform: uppercase
+    *text-transform: uppercase
 }
 .header h1 a {
     color: white;
@@ -855,9 +868,9 @@ dd {
     top: -1.25em;
     background: #69CAF5;
     display: block;
-    height: 2px;
-    width: 150px;
-    left: calc(50% - 75px)
+    height: 3px;
+    width: 250px;
+    left: calc(50% - 125px)
 }
 .post blockquote:after {
     content: "";
@@ -865,9 +878,9 @@ dd {
     bottom: -1.25em;
     background: #69CAF5;
     display: block;
-    height: 2px;
-    width: 150px;
-    left: calc(50% - 75px)
+    height: 3px;
+    width: 250px;
+    left: calc(50% - 125px)
 }
 .post .meta {
     text-align: center;
@@ -1260,3 +1273,4 @@ dd {
         margin-right: 0
     }
 }
+
