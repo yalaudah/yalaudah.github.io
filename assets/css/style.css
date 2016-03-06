@@ -1131,9 +1131,9 @@ dd {
         clear: both
     }
     .header h1 {
-        font-size: 3em;
+        font-size: 1em;
         line-height: 1;
-        letter-spacing: -3px;
+        letter-spacing: 2px  !important;
         padding-left: 0
     }
     .header nav {
