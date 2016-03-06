@@ -1,6 +1,6 @@
 @import url(http://fonts.googleapis.com/css?family=Open+Sans:300,400,800);
 @import url(https://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic);
-@import url(https://fonts.googleapis.com/css?family=Condiment:800);
+@import url(https://fonts.googleapis.com/css?family=Condiment);
 
 html {
     font-size: 100%;
@@ -835,12 +835,11 @@ dd {
 
 .header h1 {
     margin: 0;
-    padding-left: 2rem;
+    padding-left: 0rem;
     letter-spacing: 2px  !important;
     font-size: 1em ;
-    line-height: 3em;
+    line-height: 1em;
     font-family: "Condiment", Helvetica, Arial, sans-serif;
-    font-weight: 800;
 }
 .header h1 a {
     color: white;
