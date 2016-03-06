@@ -818,10 +818,10 @@ dd {
 
 .header h1 {
     margin: 0;
-    padding-left: 0rem;
-    letter-spacing: 2px  !important;
-    font-size: 3em ;
-    line-height: 1em;
+    padding-left: 10rem;
+    letter-spacing: 2px  ;
+    font-size: 1.5em ;
+    line-height: 1.8em;
     font-family: "Condiment", Helvetica, Arial, sans-serif;
 }
 .header h1 a {
