@@ -820,7 +820,7 @@ dd {
     margin: 0;
     padding-left: 0rem;
     letter-spacing: 2px  !important;
-    font-size: 1em ;
+    font-size: 3em ;
     line-height: 1em;
     font-family: "Condiment", Helvetica, Arial, sans-serif;
 }
@@ -1094,7 +1094,7 @@ dd {
         margin: 2rem auto 1em
     }
     .header {
-        height: 15em;
+        height: 25em;
         position: relative;
         padding-bottom: 2em
     }
