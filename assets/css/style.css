@@ -1,7 +1,6 @@
 @import url(http://fonts.googleapis.com/css?family=Open+Sans:300,400,800);
 @import url(https://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic);
 @import url(https://fonts.googleapis.com/css?family=Condiment);
-
 html {
     font-size: 100%;
     line-height: 1.5em
@@ -25,11 +24,9 @@ hgroup,
 main,
 menu,
 nav,
-
 summary {
     display: block
 }
-    
 audio:not([controls]) {
     display: none;
     height: 0
@@ -96,7 +93,6 @@ h6 {
     margin-top: 2.23881em;
     margin-bottom: 2.23881em
 }
-
 mark {
     background: #ff0;
     color: #000
@@ -147,11 +143,6 @@ img {
 svg:not(:root) {
     overflow: hidden
 }
-
-
-
-
-
 figure {
     margin: 1.5em 40px
 }
@@ -176,10 +167,6 @@ samp {
 form {
     margin: 0
 }
-
-
-
-
 button,
 input,
 optgroup,
@@ -299,7 +286,6 @@ th {
     -webkit-transition: background-color .14s ease-in-out;
     transition: background-color .14s ease-in-out
 }
-
 .button:hover,
 .button-secondary:hover,
 .button-tertiary:hover,
@@ -406,7 +392,6 @@ form .error input[type=text],
 form .error textarea {
     border-color: #FF4136
 }
-
 table {
     width: 100%;
     border: 1px solid #d0d0d0;
@@ -709,8 +694,6 @@ iframe,
 object {
     max-width: 100%
 }
-
-
 .container {
     max-width: 610px;
     margin-left: auto;
