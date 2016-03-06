@@ -1163,7 +1163,7 @@ dd {
         padding-bottom: .25em;
         border-bottom: 4px solid rgba(255, 255, 255, .4)
     }
-    /*.js .nav-collapse {
+    .js .nav-collapse {
         position: relative;
         max-height: none
     }
@@ -1172,7 +1172,7 @@ dd {
     }
     .js .nav-collapse ul li a {
         display: inline-block
-    }*/
+    }
     .nav-toggle {
         display: none 
     }
