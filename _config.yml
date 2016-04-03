@@ -21,6 +21,8 @@ navigation:
    url: /research
  - title: Publications
    url: /publications
+ - title: Reading
+   url: /reading
  - title: About Me
    url: /aboutme
 
