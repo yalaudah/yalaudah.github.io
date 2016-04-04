@@ -18,10 +18,9 @@ My research interests are related to image processing, computer vision, and mach
 <br>
 
 
-<div style="background:#FFFFFF;border:4px solid #69CAF5;padding:30px 30px;">
-<p style="text-align: justify; center: 280px;"><a><img alt="" src="https://jekyllrb.com/img/logo-2x.png" style="width: 250px; height: 115px; float: center;" /></a></p>
+<div style="background:#FFFFFF;border:4px solid #69CAF5;padding:30px 30px 30px 30px;">
+<p style="text-align: justify; center: 280px;"></p>
 
-<br>
 
 <h3> Computational Seismic Interpretation </h3> 
 
@@ -32,7 +31,7 @@ My research interests are related to image processing, computer vision, and mach
 <br>
 
 
-<div style="background:#FFFFFF;border:4px solid #69CAF5;padding:30px 30px;">
+<div style="background:#FFFFFF;border:4px solid #69CAF5;padding:30px 30px 30px 30px;">
 
 
 <h3> Semantic Segmentation and Scene Labeling </h3> 
