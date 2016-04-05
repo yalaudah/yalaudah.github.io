@@ -1,10 +1,8 @@
 ---
 layout: post
-title:  "Template Post"
+title:  "Hello World!"
 date:   2016-04-04
 ---
-
-# Hello World!
 
 Hello world, I have a confession. I’ve been trying to start a blog for some time now. I started my first blog back in 2007 and  after writing a few posts, my enthusiasm faded away quickly. I’m mainly writing this post to shame my future self into keeping the habit, and writing more.
 
