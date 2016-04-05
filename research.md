@@ -10,6 +10,7 @@ My research interests are related to image processing, computer vision, and mach
 <div style="background:#FFFFFF;border:4px solid #69CAF5;padding:30px 30px 30px 30px;">
 <h3> Image Similarity </h3> 
 
+[to be updated]
 
 
 </div>
@@ -23,6 +24,8 @@ My research interests are related to image processing, computer vision, and mach
 
 
 <h3> Computational Seismic Interpretation </h3> 
+
+[to be updated]
 
 
 </div>
@@ -38,6 +41,7 @@ My research interests are related to image processing, computer vision, and mach
 <div>
 <a><img alt="" src="/assets/img/zuerich00.png" style="height: 200; float: center;" /></a> </div>
 
+[to be updated]
 
 
 </div>
