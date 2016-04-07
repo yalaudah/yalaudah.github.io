@@ -91,4 +91,9 @@ Our work in computational seismic interpretation is mainly concered with develop
 [to be updated]
 
 
+
+
+
+Image courtesy: https://www.cityscapes-dataset.com/
+
 </div>
