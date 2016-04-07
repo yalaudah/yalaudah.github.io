@@ -55,7 +55,7 @@ My research interests are related to image processing, computer vision, and mach
 		
 
 
-Our work in computational seismic interpretation is mainly concered with developing computational methods and algorithms to help seismic interpreters and geophysicists process and understand the  data more efficiently. I've mainly worked on developing new seismic attributes, detection and delineation of subsurface structures, developing expressive descriptors for seismic data, and using these descriptors to detect and classify specific structures.  
+Our work in computational seismic interpretation is mainly concerned with developing computational methods and algorithms to help seismic interpreters and geophysicists process and understand the  data more efficiently. I've mainly worked on developing new seismic attributes, detection and delineation of subsurface structures, developing expressive descriptors for seismic data, and using these descriptors to detect and classify specific structures.  
 
 
 
