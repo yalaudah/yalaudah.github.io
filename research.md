@@ -5,12 +5,12 @@ title: Research
 
 <h1 class="pageTitle">Research</h1>
 
-My research interests are related to image processing, computer vision, and machine learning. I'm especially interested in computational seismic interpretation, image similarity, and problems related to semantic image segmentation and scene labeling. I breifly introduce each of these topics below: 
+My research interests are related to image processing, computer vision, and machine learning. I'm especially interested in image similarity, computational seismic interpretation, and problems related to semantic image segmentation and scene labeling. I breifly describe each of these topics below: 
 
 <div style="background:#FFFFFF;border:4px solid #69CAF5;padding:30px 30px 30px 30px;">
 <h3> Image Similarity </h3> 
 
-Image similarity can be generally defined as the problem where given a set of two images or more, we would like to quantify how similar or dissimilar these images are to each other. Usually similarity in this context is not defined in terms of Mean Square Error (MSE) or Peak Signal to Noise Ratio (PSNR) for <a href="http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=4775883&newsearch=true&queryText=Mean%20Squared%20Error:%20Love%20It%20or%20Leave%20It%3F"> very good reasons </a>. Therefore it becomes important to develop (or learn) features that can accurately represent the content of visual data. These features should also be robust to noise, translation and rotation, geometric distortions, or whatever the application might require. Image similarity has a wide range of applications, from image quality and feature ranking, to image and multimedia retreival.  
+Image similarity can be generally defined as the problem where given a set of two images or more, we would like to quantify how similar or dissimilar these images are to each other. While easy to compute, Mean Square Error (MSE) and Peak Signal to Noise Ratio (PSNR) are terrible for image similarity applications, and thus are hardly used for <a href="http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=4775883&newsearch=true&queryText=Mean%20Squared%20Error:%20Love%20It%20or%20Leave%20It%3F"> very good reasons </a>. Therefore it becomes important to develop (or learn) features that can accurately represent the content of visual data. These features should also be robust to noise, translation and rotation, geometric distortions, or whatever the application might require. Image similarity has a wide range of applications, from image quality and feature ranking, to image and multimedia retreival.  
 
 </div>
     
@@ -87,6 +87,7 @@ Our work in computational seismic interpretation is mainly concerned with develo
 <div>
 <a><img alt="" src="/assets/img/zuerich00.png" style="height: 200; float: center;" /></a> <small>Image courtesy: https://www.cityscapes-dataset.com/ </small> </div>
 
+<hr>
 
 An important step towards image understanding (with its widely useful applicaitons) is scene labeling (sometimes referred to as <a href="http://arxiv.org/abs/1411.4038">"semantic segmentation"</a>, or <a href="http://arxiv.org/abs/1411.4101">"scene parsing"</a>). Scene labeling is the task of assigning every pixel in an image with a label describing the category to which the pixel belongs. Scene labeling has many exciting applications, one of which is enabling autonomous vehicles as the image above might hint. 
 
