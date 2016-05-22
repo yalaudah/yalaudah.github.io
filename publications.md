@@ -8,15 +8,13 @@ title: Publications
 
 ### 2016
 
-{:start="8"}
+{:start="5"}
 
 {:reversed="reversed"}
 
-0. M. Alfarraj, **Y. Alaudah**, and G. AlRegib, “DTSIM: A Directional Texture Similarity Metric,” submitted to *IEEE Intl. Conference on Image Processing (ICIP)*, Phoenix, Arizona, USA, Sep. 25-28, 2016.
 
 0. **Y. Alaudah** and G. AlRegib, “Weakly-Supervised Labeling of Seismic Volumes Using Reference Exemplars,” submitted to *IEEE Intl. Conference on Image Processing (ICIP)*, Phoenix, Arizona, USA, Sep. 25-28, 2016.
 
-0. M. Shafiq, **Y. Alaudah**, and G. AlRegib, “Phase Congruency for image understanding with applications in computational seismic interpretation," submitted to *IEEE Intl. Conference on Image Processing (ICIP)*, Phoenix, Arizona, USA, Sep. 25-28, 2016.
 
 0. **Y. Alaudah** and G. AlRegib, “A Generalized Tensor-Based Coherence Attribute,” *78th EAGE Annual Conference & Exhibition*, Vienna, Austria, May 30-June 2, 2016.
 
