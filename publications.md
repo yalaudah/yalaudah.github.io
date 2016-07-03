@@ -8,17 +8,18 @@ title: Publications
 
 ### 2016
 
-{:start="6"}
+{:start="7"}
 
 {:reversed="reversed"}
 
+0. M. Alfarraj, **Y. Alaudah**, and G. AlRegib, “Content-adaptive Non-parametric Texture Similarity Measure,” *IEEE Workshop on Multimedia Signal Processing (MMSP 2016)*, Montreal, Canada, Sep. 21-23, 2016.
 
 0. **Y. Alaudah** and G. AlRegib, “Weakly-Supervised Labeling of Seismic Volumes Using Reference Exemplars,” *IEEE Intl. Conference on Image Processing (ICIP)*, Phoenix, Arizona, USA, Sep. 25-28, 2016.
 
 
-0. **Y. Alaudah** and G. AlRegib, “A Generalized Tensor-Based Coherence Attribute,” *78th EAGE Annual Conference & Exhibition*, Vienna, Austria, May 30-June 2, 2016.
+0. **Y. Alaudah** and G. AlRegib, “A Generalized Tensor-Based Coherence Attribute,” *78th EAGE Annual Conference & Exhibition*, Vienna, Austria, May 30-June 2, 2016.[[**Link]](http://earthdoc.eage.org/publication/publicationdetails/?publication=85573)
 
-0. M. Shafiq, **Y. Alaudah**, and G. AlRegib, “A hybrid approach for salt dome delineation within migrated seismic volumes," *78th EAGE Annual Conference & Exhibition*, Vienna, Austria, May 30-June 2, 2016.
+0. M. Shafiq, **Y. Alaudah**, and G. AlRegib, “A hybrid approach for salt dome delineation within migrated seismic volumes," *78th EAGE Annual Conference & Exhibition*, Vienna, Austria, May 30-June 2, 2016. [[**Link**]](http://earthdoc.eage.org/publication/publicationdetails/?publication=85576)
 
 
 0. **Y. Alaudah**, M. Shafiq, and G. AlRegib, “A Hybrid Spatio-Frequency Approach for Delineating Subsurface Structures in Seismic Volumes,” *SIAM conference on Imaging Science*, New Mexico, USA, May 23-26, 2016.
