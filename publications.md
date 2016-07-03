@@ -8,10 +8,10 @@ title: Publications
 
 ### 2016
 
-{:start="6"}
+{:start="7"}
 
 {:reversed="reversed"}
-
+0. M. Alfarraj, **Y. Alaudah**, and G. AlRegib, "Content-adaptive Non-parametric Texture Similarity Measure," *IEEE Workshop on Multimedia Signal Processing (MMSP 2016)*, Montreal, Canada,  Sep. 21-23, 2016.
 
 0. **Y. Alaudah** and G. AlRegib, “Weakly-Supervised Labeling of Seismic Volumes Using Reference Exemplars,” *IEEE Intl. Conference on Image Processing (ICIP)*, Phoenix, Arizona, USA, Sep. 25-28, 2016.
 
