@@ -8,13 +8,15 @@ title: Publications
 
 ### 2016
 
-{:start="7"}
+{:start="9"}
 
 {:reversed="reversed"}
 
+0. M. Shafiq, **Y. Alaudah**, G. AlRegib, and M. Deriche, “Phase Congruency for Image Understanding with Applications in Computational Seismic Interpretation,” Submitted to The 42nd IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP2017), New Orleans, USA, March 5-9, 2017.
+
 0. M. Alfarraj, **Y. Alaudah**, and G. AlRegib, “Content-adaptive Non-parametric Texture Similarity Measure,” *IEEE Workshop on Multimedia Signal Processing (MMSP 2016)*, Montreal, Canada, Sep. 21-23, 2016.
 
-0. **Y. Alaudah** and G. AlRegib, “Weakly-Supervised Labeling of Seismic Volumes Using Reference Exemplars,” *IEEE Intl. Conference on Image Processing (ICIP)*, Phoenix, Arizona, USA, Sep. 25-28, 2016.
+0. **Y. Alaudah** and G. AlRegib, “Weakly-Supervised Labeling of Seismic Volumes Using Reference Exemplars,” *IEEE Intl. Conference on Image Processing (ICIP)*, Phoenix, Arizona, USA, Sep. 25-28, 2016. [[**Link**]](http://ieeexplore.ieee.org/document/7533186/)
 
 
 0. **Y. Alaudah** and G. AlRegib, “A Generalized Tensor-Based Coherence Attribute,” *78th EAGE Annual Conference & Exhibition*, Vienna, Austria, May 30-June 2, 2016.[[**Link**]](http://earthdoc.eage.org/publication/publicationdetails/?publication=85573)
