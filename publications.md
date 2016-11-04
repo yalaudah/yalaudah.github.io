@@ -8,7 +8,7 @@ title: Publications
 
 ### 2016
 
-{:start="9"}
+{:start="8"}
 
 {:reversed="reversed"}
 
