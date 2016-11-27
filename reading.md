@@ -6,7 +6,7 @@ title: Reading
 
 <h1 class="pageTitle">Reading</h1>
 
-I like to read (or <a href="http://www.audible.com/">listen</a>) to books whenever I have some free time. Here are some of the books that I've been reading lately: 
+I like to read (or <a href="http://www.audible.com/">listen</a> to)  books in my free time. Here are some of the books that I have read lately: 
 
 <style type="text/css" media="screen">
         .gr_grid_container {
@@ -49,5 +49,5 @@ I like to read (or <a href="http://www.audible.com/">listen</a>) to books whenev
 <div>
 
 </div>
-<script src="https://www.goodreads.com/review/grid_widget/4611417.Yazeed's%20bookshelf:%20read?cover_size=medium&hide_link=false&hide_title=true&num_books=24&order=d&shelf=read&sort=date_read&widget_id=1459712837" type="text/javascript" charset="utf-8"></script>
+<script src="https://www.goodreads.com/review/grid_widget/4611417.Yazeed's%20bookshelf:%20read?cover_size=medium&hide_link=false&hide_title=true&num_books=32&order=d&shelf=read&sort=date_read&widget_id=1459712837" type="text/javascript" charset="utf-8"></script>
 

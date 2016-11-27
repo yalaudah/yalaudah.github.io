@@ -16,21 +16,7 @@ Image similarity can be generally defined as the problem where given a set of tw
     
 
 
-
-
-
-
-
-
-
 <br>
-
-
-
-
-
-
-
 
 
 

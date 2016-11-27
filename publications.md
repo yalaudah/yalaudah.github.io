@@ -8,11 +8,13 @@ title: Publications
 
 ### 2016
 
-{:start="8"}
+{:start="9"}
 
 {:reversed="reversed"}
 
-0. M. Shafiq, **Y. Alaudah**, G. AlRegib, and M. Deriche, “Phase Congruency for Image Understanding with Applications in Computational Seismic Interpretation,” Submitted to The 42nd IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP2017), New Orleans, USA, March 5-9, 2017.
+0. M. Shafiq, H. Di, **Y. Alaudah**, and G. AlRegib, "Interpreter-Assisted Interactive Delineation of Salt Domes using Phase Congruency and Gradient of Texture Attributes," *American Association of Petroleum Geologists, Annual Convention and Exhibition (ACE)*, 2-5 April, 2017.
+
+0. M. Shafiq, **Y. Alaudah**, G. AlRegib, and M. Deriche, “Phase Congruency for Image understanding with applications in Computational Seismic Interpretation,” Submitted to *The 42nd IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP2017)*. March 5-9, 2017, New Orleans, USA.
 
 0. M. Alfarraj, **Y. Alaudah**, and G. AlRegib, “Content-adaptive Non-parametric Texture Similarity Measure,” *IEEE Workshop on Multimedia Signal Processing (MMSP 2016)*, Montreal, Canada, Sep. 21-23, 2016.
 
