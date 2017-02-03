@@ -11,7 +11,8 @@ title: Publications
 
 {:reversed="reversed"}
 
-0. **Y. Alaudah**, Di, H., and G. AlRegib, “Weakly Supervised Seismic Structure Labeling via Orthogonal Non-Negative Matrix Factorization”, submitted to *79th EAGE Annual Conference & Exhibition*, Paris, France, June 12-15, 2017.
+0. **Y. Alaudah**, H. Di, and G. AlRegib, “Weakly Supervised Seismic Structure Labeling via Orthogonal Non-Negative Matrix Factorization”, submitted to *79th EAGE Annual Conference & Exhibition*, Paris, France, June 12-15, 2017.
+
 
 0. M. A. Shafiq, **Y. Alaudah**, and G. AlRegib, “Salt dome delineation using edge- and texture-based attributes,” submitted to *79th EAGE conference and Exhibition*, Paris, France, 12-15 June, 2017.
 
@@ -28,10 +29,9 @@ title: Publications
 {:reversed="reversed"}
 
 
-0. M. Alfarraj, **Y. Alaudah**, and G. AlRegib, “Content-adaptive Non-parametric Texture Similarity Measure,” *IEEE Workshop on Multimedia Signal Processing (MMSP 2016)*, Montreal, Canada, Sep. 21-23, 2016. [[**Link**]](http://ieeexplore.ieee.org/document/7813338/)[[**BibTeX**]](../assets/files/mmsp2016.bib)
+0. M. Alfarraj, **Y. Alaudah** and G. AlRegib, "Content-adaptive non-parametric texture similarity measure," *2016 IEEE 18th International Workshop on Multimedia Signal Processing (MMSP)*, Montreal, QC, Canada, 2016, pp. 1-6. [[**Link**]](http://ieeexplore.ieee.org/document/7813338/)[[**BibTeX**]](../assets/files/mmsp2016.bib)
 
-0. **Y. Alaudah** and G. AlRegib, “Weakly-Supervised Labeling of Seismic Volumes Using Reference Exemplars,” *IEEE Intl. Conference on Image Processing (ICIP)*, Phoenix, Arizona, USA, Sep. 25-28, 2016. [[**Link**]](http://ieeexplore.ieee.org/document/7533186/)[[**BibTeX**]](../assets/files/icip2016.bib)
-
+0. **Y. Alaudah** and G. AlRegib, "Weakly-supervised labeling of seismic volumes using reference exemplars," *2016 IEEE International Conference on Image Processing (ICIP)*, Phoenix, AZ, 2016, pp. 4373-4377. [[**Link**]](http://ieeexplore.ieee.org/document/7533186/)[[**BibTeX**]](../assets/files/icip2016.bib)
 
 0. **Y. Alaudah** and G. AlRegib, “A Generalized Tensor-Based Coherence Attribute,” *78th EAGE Annual Conference & Exhibition*, Vienna, Austria, May 30-June 2, 2016.[[**Link**]](http://earthdoc.eage.org/publication/publicationdetails/?publication=85573)
 
