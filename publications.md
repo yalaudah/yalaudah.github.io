@@ -11,6 +11,10 @@ title: Publications
 
 {:reversed="reversed"}
 
+0. **Y. Alaudah** and G. AlRegib, “A directional coherence attribute for seismic interpretation,” submitted to 87th Annual SEG Meeting Extended Abstracts, Houston, Texas, 2017.
+
+0. **Y. Alaudah** and G. AlRegib, “A weakly-supervised approach to seismic structure labeling,” submitted to 87th Annual SEG Meeting Extended Abstracts, Houston, Texas, 2017.
+
 0. **Y. Alaudah**, H. Di, and G. AlRegib, “Weakly Supervised Seismic Structure Labeling via Orthogonal Non-Negative Matrix Factorization”, submitted to *79th EAGE Annual Conference & Exhibition*, Paris, France, June 12-15, 2017.
 
 
