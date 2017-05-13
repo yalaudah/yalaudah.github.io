@@ -1,0 +1,92 @@
+<link rel="stylesheet" href="../assets/css/github-markdown.css" />
+
+<style>
+    .markdown-body {
+        box-sizing: border-box;
+        min-width: 200px;
+        max-width: 980px;
+        margin: 0 auto;
+        padding: 45px;
+    }
+</style>
+
+<p>For better or worse, I’ve been using MATLAB for quite a long time. Most of the codes and libraries in my research area are published in MATLAB, and naturally so are mine. Lately, I’ve started using python much more frequently, and I was pleasantly surprised by many features that I truly miss in MATLAB. I am not an expert in either programming language, so this is just my personal opinion, you can let me know what you think in the comments below.</p>
+
+<h3 id="syntax">Syntax:</h3>
+<p>One of the first things I liked about  MATLAB was that it was a high-level programming language with a syntax that was really easy to learn. Yes, it had its quirks (e.g. using parentheses for both function calls and accessing matrix values), but these quirks aside, it’s syntax was really straight forward.</p>
+
+<div class="highlighter-rouge"><pre class="highlight"><code><span class="n">x</span> <span class="o">=</span> <span class="n">foo</span><span class="p">(</span><span class="nb">i</span><span class="p">);</span> <span class="c1">% is this a function or a matrix?</span>
+</code></pre>
+</div>
+
+<p>As it turns out, python is even easier. Python’s syntax forces you to write code that is easily readable and maintainable and also helps you adopt better programming practices. There are many examples of this, but I’ll just mention a few:</p>
+
+<blockquote>
+  <p>Python’s syntax forces you to write code that is easily readable and maintainable.</p>
+</blockquote>
+
+<ol>
+  <li>
+    <p>Scopes [is this the correct word?]: Instead of using semi-colons like MATLAB, Python uses indentation to mark […]. I really love this because it forces you to write clean readable code. Not only does indentation helps make your code easier to read, it also forces you to use shorter lines, and spread out operations into multiple lines. Thus breaking down your long complex lines of code into shorter easily-digestable chunks.</p>
+  </li>
+  <li>
+    <p>namespaces: 
+In MATLAB, every function you write or download is defined in the global namespace. This caused me many unneccesary headaches. If you have a large MATLAB directory, it’s very likely that some of the functions you download (or even write, if you’re not careful) will have the same name of another function in your directory. When you call that function, you don’t know exactly which function is being called. You can imagine how this can cause a lot of problems. With python however, this problem is non-existant. I absolutely love how python uses namespaces. You only load whatever python libraries you need (e.g. <code class="highlighter-rouge">import skimage as sk</code>) or even just the specific module you want (e.g. <code class="highlighter-rouge">from skimage import filters</code>). This is also one of the ways Python forces you write readbale code. A quick glance at the first few lines of any Python code will let you know which Python libraries are being used, and if you have to install them before running the code. With MATLAB, unless the code documentation specifies which libraries you need to run the code, you will have to find out yourself.</p>
+  </li>
+  <li>
+    <p>docstrings:</p>
+  </li>
+  <li>
+    <p>List Comprehensions:
+This is one of my favourites. I</p>
+  </li>
+  <li>
+    <p>Function inputs and default function parameters: (find a better example)
+If you had a MATLAB function <code class="highlighter-rouge">sendEmail(to, subject, body)</code>, you will have to call that function with the inputs <code class="highlighter-rouge">to</code>,<code class="highlighter-rouge">subject</code>, and <code class="highlighter-rouge">body</code> exactly in the order they are defined in the funciton definition. With Python, you can do that of course, or you can use any arbitrary order as long as you specify the input variable. In Python it would work like this: 
+<code class="highlighter-rouge">python
+sendEmail(body = 'python is awesome.', subject = 'What i think of python', to = )
+</code> 
+Also, you can easily define the default value for any input this way: 
+<code class="highlighter-rouge">python 
+def fun(a, b = 2.0, c = 1.0):
+ print 'a**b / c'
+</code></p>
+  </li>
+</ol>
+
+<p>x. Coding Style:</p>
+
+<p>PEP8 vs. what for matlab?</p>
+
+<h3 id="object-orientation">Object orientation:</h3>
+<p>(while I don’t use it often, …)</p>
+
+<h3 id="package-management">Package management</h3>
+<p>pip and conda vs.  ?</p>
+
+<h3 id="general-vs-customized-programming-language">General vs. Customized programming language:</h3>
+<p>While MATLAB was , Python is a general programming langauge from the get go. You can use Python to build websites(Django link), solve complex scientific problems (scipy), analyse data (pandas), other examples .. . While Python code might not execute as fast as other programming languages such as C/C++ or Julia (link), it is still widely used and increasingly adopted in many scientific communities.</p>
+
+<h3 id="open-source-libraries-and-strong-community">Open source libraries and strong community:</h3>
+
+<p>Obviously MATLAB is a commercial software. A single MATLAB license costs about: $  xxxxx. Python does everything MATLAB does and more.</p>
+
+<blockquote>
+  <p>A single MATLAB license costs about $ ……</p>
+</blockquote>
+
+<ul>
+  <li>you can download and use python with all it power for free.</li>
+  <li>you can read all the built in functions</li>
+  <li>you have a lot of flexibility with what you want to do with the language..</li>
+  <li>many great open source projects, and thousands of people</li>
+  <li>the python standard library is huge. From encrypting data to …, you name it. (see dash documentation.. lots of great libraries)</li>
+</ul>
+
+<blockquote>
+  <p>Python’s standard library is huge.</p>
+</blockquote>
+
+<h3 id="finally">Finally..</h3>
+
+<p>After all the points I’ve mentioned above, it’s no wonder why I would prefer Python over MATLAB. I’m leaving out a lot, but I just wanted to make a point.</p>
