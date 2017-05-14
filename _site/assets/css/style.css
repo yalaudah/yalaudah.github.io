@@ -202,7 +202,7 @@ pre,
 samp {
     font-family: monospace, monospace;
     font-size: 1em padding: .5em .5em;
-    color: #69CAF5;
+    color: #B0C9DD;
     border-radius: 4px
 }
 
@@ -334,7 +334,7 @@ th {
 .button-secondary,
 .button-tertiary,
 .button__outline {
-    background-color: #69CAF5;
+    background-color: #B0C9DD;
     display: inline-block;
     position: relative;
     font-family: "Open Sans", Helvetica, Arial, sans-serif;
@@ -392,12 +392,12 @@ th {
 
 .button__outline {
     background-color: transparent;
-    border: 3px solid #69CAF5;
-    color: #69CAF5
+    border: 3px solid #B0C9DD;
+    color: #B0C9DD
 }
 
 .button__outline:hover {
-    background-color: #69CAF5;
+    background-color: #B0C9DD;
     color: #fff
 }
 
@@ -429,7 +429,7 @@ input[type=phone]:focus,
 input[type=search]:focus,
 input[type=text]:focus,
 textarea:focus {
-    border: 1px solid #69CAF5
+    border: 1px solid #B0C9DD
 }
 
 input[type=email].full-width,
@@ -811,12 +811,12 @@ body ul {
 }
 
 ::-moz-selection {
-    background: #69CAF5;
+    background: #B0C9DD;
     color: white
 }
 
 ::selection {
-    background: #69CAF5;
+    background: #B0C9DD;
     color: white
 }
 
@@ -842,7 +842,7 @@ object {
 }
 
 a {
-    color: #69CAF5
+    color: #B0C9DD
 }
 
 a:hover {
@@ -864,8 +864,8 @@ a:hover {
 .nav-collapse ul li {
     width: 100%;
     display: block;
-    background: #69CAF5;
-    border-bottom: 2px solid #69CAF5
+    background: #B0C9DD;
+    border-bottom: 2px solid #B0C9DD
 }
 
 .nav-collapse ul li a {
@@ -901,7 +901,7 @@ a:hover {
     float: right;
     line-height: 2em;
     margin-top: .5em;
-    background-color: #69CAF5;
+    background-color: #B0C9DD;
     border-radius: 4px;
     padding: 0 .5em;
     color: white;
@@ -948,7 +948,7 @@ dd {
 }
 
 .header {
-    background-color: #69CAF5;
+    background-color: #B0C9DD;
     background-image: url("../img/touring.jpg");
     background-size: cover;
     background-position: center center;
@@ -1002,7 +1002,7 @@ dd {
     content: "";
     position: absolute;
     top: -1.25em;
-    background: #69CAF5;
+    background: #B0C9DD;
     display: block;
     height: 2px;
     width: 150px;
@@ -1013,7 +1013,7 @@ dd {
     content: "";
     position: absolute;
     bottom: -1.25em;
-    background: #69CAF5;
+    background: #B0C9DD;
     display: block;
     height: 2px;
     width: 150px;
@@ -1053,7 +1053,7 @@ dd {
 }
 
 .post .dropcap {
-    color: #69CAF5;
+    color: #B0C9DD;
     margin-right: .45rem
 }
 
@@ -1189,7 +1189,7 @@ dd {
 }
 
 .footer-links ul li a svg .outer-shape {
-    fill: #69CAF5
+    fill: #B0C9DD
 }
 
 .footer-links ul li a svg .inner-shape {
