@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Research Internship at MERL"
-date:   2016-05-16
+date:   2017-05-14
 image: merl2.png
 ---
 
