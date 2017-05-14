@@ -7,14 +7,18 @@ title: Publications
 
 ### 2017
 
-{:start="11"}
+{:start="13"}
 
 {:reversed="reversed"}
 
-0. **Y. Alaudah**, H. Di, and G. AlRegib, “Weakly Supervised Seismic Structure Labeling via Orthogonal Non-Negative Matrix Factorization”, submitted to *79th EAGE Annual Conference & Exhibition*, Paris, France, June 12-15, 2017.
+0. **Y. Alaudah** and G. AlRegib, “A directional coherence attribute for seismic interpretation,” submitted to 87th Annual SEG Meeting Extended Abstracts, Houston, Texas, 2017.
+
+0. **Y. Alaudah** and G. AlRegib, “A weakly-supervised approach to seismic structure labeling,” submitted to 87th Annual SEG Meeting Extended Abstracts, Houston, Texas, 2017.
+
+0. **Y. Alaudah**, H. Di, and G. AlRegib, “Weakly Supervised Seismic Structure Labeling via Orthogonal Non-Negative Matrix Factorization”, *79th EAGE Annual Conference & Exhibition*, Paris, France, June 12-15, 2017.
 
 
-0. M. A. Shafiq, **Y. Alaudah**, and G. AlRegib, “Salt dome delineation using edge- and texture-based attributes,” submitted to *79th EAGE conference and Exhibition*, Paris, France, 12-15 June, 2017.
+0. M. A. Shafiq, **Y. Alaudah**, and G. AlRegib, “Salt dome delineation using edge- and texture-based attributes,” *79th EAGE conference and Exhibition*, Paris, France, 12-15 June, 2017.
 
 0. M. A. Shafiq, H. Di, **Y. Alaudah**, and G. AlRegib, “Interpreter-Assisted Interactive Delineation of Salt Domes using Phase Congruency and Gradient of Texture Attributes,” *American Association of Petroleum Geologists, Annual Convention and Exhibition (ACE)*, 2-5 April, 2017.
 
