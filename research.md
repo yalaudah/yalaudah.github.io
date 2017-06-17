@@ -6,7 +6,7 @@ title: Research
 <h1 class="pageTitle">Research</h1>
 
 
-<h4 style="color:rgb(255,0,0);">This page is out of date and will be updated soon.</h1>
+<h4 style="color:rgb(255,0,0);">This page is out of date and will be updated soon.</h4>
 
 My research interests are related to image processing, computer vision, and machine learning. I'm especially interested in image similarity, computational seismic interpretation, and problems related to semantic image segmentation and scene labeling. I breifly describe each of these topics below: 
 
