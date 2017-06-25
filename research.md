@@ -9,21 +9,7 @@ title: Research
 <h4 style="color:rgb(255,0,0);">This page is out of date and will be updated soon.</h4>
 
 My research interests are related to image processing, computer vision, and machine learning. I'm especially interested in image similarity, computational seismic interpretation, and problems related to semantic image segmentation and scene labeling. I breifly describe each of these topics below: 
-
-<div style="background:#FFFFFF;border:4px solid #B0C9DD;padding:30px 30px 30px 30px;">
-<h3> Image Similarity </h3> 
-
-Image similarity can be generally defined as the problem where given a set of two images or more, we would like to quantify how similar or dissimilar these images are to each other. While easy to compute, Mean Square Error (MSE) and Peak Signal to Noise Ratio (PSNR) are terrible for image similarity applications, and thus are hardly used for <a href="http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=4775883&newsearch=true&queryText=Mean%20Squared%20Error:%20Love%20It%20or%20Leave%20It%3F"> very good reasons </a>. Therefore it becomes important to develop (or learn) features that can accurately represent the content of visual data. These features should also be robust to noise, translation and rotation, geometric distortions, or whatever the application might require. Image similarity has a wide range of applications, from image quality and feature ranking, to image and multimedia retreival.  
-
-</div>
     
-
-
-<br>
-
-
-
-
 <div style="background:#FFFFFF;border:4px solid #B0C9DD;padding:30px 30px 30px 30px;">
 <p style="text-align: justify; center: 280px;"></p>
 
