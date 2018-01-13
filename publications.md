@@ -10,6 +10,8 @@ title: Publications
 
 {:reversed="reversed"}
 
+0. **Y. Alaudah**, M. Alfarraj, and G. AlRegib, "Structure Label Prediction Using Similarity-Based Retrieval and Weakly-Supervised Label Mapping", submitted to *Geophysics*, January 2018.
+
 0. G. AlRegib, M. Deriche, Z. Long, H. Di, Z. Wang, **Y. Alaudah**, M. A. Shafiq, M. Alfarraj, “Subsurface Structure Analysis using Computational Interpretation and Learning”, accepted in *IEEE Signal Processing Magazine*, March 2018.
 
 0. Z. Long, **Y. Alaudah**, M. A. Qureshi, Y. Hu, Z. Wang, M. Alfarraj, G. AlRegib, A. Amin, M. Deriche, and S. Al-Dharrab, “A comparative study of texture attributes for characterizing subsurface structures in migrated seismic volumes,” submitted to *Interpretation*, 2017.
