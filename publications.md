@@ -10,9 +10,9 @@ title: Publications
 
 {:reversed="reversed"}
 
-0. G. AlRegib, M. Deriche, Z. Long, H. Di, Z. Wang, **Y. Alaudah**, M. A. Shafiq and , “Subsurface Understanding via Computational Seismic Interpretation and Learning,” submitted to *IEEE Signal Processing Magazine*, June 2017.
+0. G. AlRegib, M. Deriche, Z. Long, H. Di, Z. Wang, **Y. Alaudah**, M. A. Shafiq, M. Alfarraj, “Subsurface Structure Analysis using Computational Interpretation and Learning”, accepted in *IEEE Signal Processing Magazine*, March 2018.
 
-0. M. Alfarraj, **Y. Alaudah**, Z. Long, G. AlRegib and M. Deriche, “A Survey of Multiresolution Texture Attributes for Computational Seismic Interpretation,” submitted to *ELSEVIER Signal Processing: Image Communication*, June 2017.
+0. Z. Long, **Y. Alaudah**, M. A. Qureshi, Y. Hu, Z. Wang, M. Alfarraj, G. AlRegib, A. Amin, M. Deriche, and S. Al-Dharrab, “A comparative study of texture attributes for characterizing subsurface structures in migrated seismic volumes,” submitted to *Interpretation*, 2017.
 
 ### Conference Proceedings:
 
