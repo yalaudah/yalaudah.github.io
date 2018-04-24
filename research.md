@@ -6,15 +6,15 @@ title: Research
 <h1 class="pageTitle">Research</h1>
 
 
-<h4 style="color:rgb(255,0,0);">This page is out of date and will be updated soon.</h4>
+<h3 style="color:rgb(255,0,0);">This page is out of date and will be updated sometime in the future.</h3>
 
-My research interests are related to image processing, computer vision, and machine learning. I'm especially interested in image similarity, computational seismic interpretation, and problems related to semantic image segmentation and scene labeling. I breifly describe each of these topics below: 
-    
+My research interests are related to image processing, computer vision, and machine learning. I'm especially interested in  problems related to semantic image segmentation and scene labeling, weakly-supervised learning, and applications related to subsurface imaging.
+
 <div style="background:#FFFFFF;border:4px solid #B0C9DD;padding:30px 30px 30px 30px;">
 <p style="text-align: justify; center: 280px;"></p>
 
 
-<h3> Computational Seismic Interpretation </h3> 
+<h3> Computational Seismic Interpretation </h3>
 
 
 
@@ -26,7 +26,7 @@ My research interests are related to image processing, computer vision, and mach
 </video></div>
 <!-- End EasyHtml5Video.com BODY section -->
 
-		
+
 
 
 Our work in computational seismic interpretation is mainly concerned with developing computational methods and algorithms to help seismic interpreters and geophysicists process and understand seismic data more efficiently. I've mainly worked on developing new seismic attributes, detection and delineation of subsurface structures, developing expressive descriptors for seismic data, and using these descriptors to detect and classify certain structures in seismic volumes.  
@@ -34,7 +34,7 @@ Our work in computational seismic interpretation is mainly concerned with develo
 
 
 </div>
-    
+
 
 
 
@@ -58,7 +58,7 @@ Our work in computational seismic interpretation is mainly concerned with develo
 <div style="background:#FFFFFF;border:4px solid #B0C9DD;padding:30px 30px 30px 30px;">
 
 
-<h3> Semantic Segmentation and Scene Labeling </h3> 
+<h3> Semantic Segmentation and Scene Labeling </h3>
 <div>
 <a><img alt="" src="/assets/img/zuerich00.png" style="height: 200; float: center;" /></a> <small>Image courtesy: https://www.cityscapes-dataset.com/ </small> </div>
 
