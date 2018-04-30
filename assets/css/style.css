@@ -3,13 +3,13 @@
 @import "https://fonts.googleapis.com/css?family=Condiment";
 html {
     font-size: 100%;
-    line-height: 1.5em
-}
-
-html {
     font-family: sans-serif;
-    -ms-text-size-adjust: 100%;
-    -webkit-text-size-adjust: 100%
+  line-height: 1.15;
+  /* 1 */
+  -ms-text-size-adjust: 100%;
+  /* 2 */
+  -webkit-text-size-adjust: 100%;
+  /* 2 */ 
 }
 
 body {
@@ -18,55 +18,93 @@ body {
 
 article,
 aside,
-details,
-figcaption,
-figure,
 footer,
 header,
-hgroup,
-main,
-menu,
 nav,
-summary {
-    display: block
-}
+section {
+  display: block; }
 
+/**
+ * Correct the font size and margin on `h1` elements within `section` and
+ * `article` contexts in Chrome, Firefox, and Safari.
+ */
+h1 {
+  font-size: 2em;
+  margin: 1em 0; }
 
+/* Grouping content
+   ========================================================================== */
+/**
+ * Add the correct display in IE 9-.
+ * 1. Add the correct display in IE.
+ */
+figcaption,
+figure,
+main {
+  /* 1 */
+  display: block; }
 
+/**
+ * Add the correct margin in IE 8.
+ */
+figure {
+  margin: 1em 40px; }
 
+/**
+ * 1. Add the correct box sizing in Firefox.
+ * 2. Show the overflow in Edge and IE.
+ */
+hr {
+  box-sizing: content-box;
+  /* 1 */
+  height: 0;
+  /* 1 */
+  overflow: visible;
+  /* 2 */ }
 
+/**
+ * 1. Correct the inheritance and scaling of font size in all browsers.
+ * 2. Correct the odd `em` font sizing in all browsers.
+ */
+pre {
+  font-family: monospace, monospace;
+  /* 1 */
+  font-size: 1em;
+  /* 2 */ }
 
-
-audio:not([controls]) {
-    display: none;
-    height: 0
-}
-
-[hidden] {
-    display: none
-}
-
-template {
-    display: none
-}
-
+/* Text-level semantics
+   ========================================================================== */
+/**
+ * 1. Remove the gray background on active links in IE 10.
+ * 2. Remove gaps in links underline in iOS 8+ and Safari 8+.
+ */
 a {
-    background-color: transparent
-}
+  background-color: transparent;
+  /* 1 */
+  -webkit-text-decoration-skip: objects;
+  /* 2 */ }
 
-a:active,
-a:hover {
-    outline: 0
-}
-
+/**
+ * 1. Remove the bottom border in Chrome 57- and Firefox 39-.
+ * 2. Add the correct text decoration in Chrome, Edge, IE, Opera, and Safari.
+ */
 abbr[title] {
-    border-bottom: 1px dotted
-}
+  border-bottom: none;
+  /* 1 */
+  text-decoration: underline;
+  /* 2 */
+  text-decoration: underline dotted;
+  /* 2 */ }
 
+/**
+ * Prevent the duplicate application of `bolder` by the next rule in Safari 6.
+ */
 b,
 strong {
-    font-weight: bold
-}
+  font-weight: inherit; }
+b,
+strong {
+  font-weight: bolder; }
 
 blockquote {
     margin: 1em 0px
@@ -77,7 +115,7 @@ dfn {
 }
 
 h1 {
-    font-size: 2em;
+    font-size: 1em;
     line-height: 1.5em;
     margin-top: 0.75em;
     margin-bottom: 0.75em
@@ -125,7 +163,7 @@ mark {
 
 p,
 pre {
-    margin: 1.5em 0
+    margin: 0em 0
 }
 
 small {
@@ -145,8 +183,7 @@ sup {
 }
 
 sub {
-    bottom: -0.25em
-}
+  bottom: -0.25em; }
 
 dl,
 menu,
@@ -202,8 +239,8 @@ pre,
 samp {
     font-family: monospace, monospace;
     font-size: 1em padding: .5em .5em;
-    color: #B0C9DD;
-    border-radius: 4px
+    color: #004796;
+    border-radius: 2px;
 }
 
 form {
@@ -217,7 +254,7 @@ select,
 textarea {
     color: inherit;
     font: inherit;
-    margin: 50;
+    margin: 10;
     *font-family: sans-serif;
     *vertical-align: middle
 }
@@ -526,129 +563,76 @@ th:last-child {
     -moz-border-radius: 3px;
     -webkit-border-radius: 3px;
     border-radius: 3px;
-    padding: 20px;
-    background: #343642;
-    color: #C1C2C3
+    padding: 5px;
+    background: #fff;
+    color: #000;
 }
 
-.highlight .hll {
-    background-color: #ffc
-}
-
-.highlight .gd {
-    color: #2e3436;
-    background-color: #0e1416
-}
-
-.highlight .gr {
-    color: #eeeeec;
-    background-color: #c00
-}
-
-.highlight .gi {
-    color: #babdb6;
-    background-color: #1f2b2d
-}
-
-.highlight .go {
-    color: #2c3032;
-    background-color: #2c3032
-}
-
-.highlight .kt {
-    color: #e3e7df
-}
-
-.highlight .ni {
-    color: #888a85
-}
-
-.highlight .c,
-.highlight .cm,
-.highlight .c1,
-.highlight .cs {
-    color: #8D9684
-}
-
-.highlight .err,
-.highlight .g,
-.highlight .l,
-.highlight .n,
-.highlight .x,
-.highlight .p,
-.highlight .ge,
-.highlight .gp,
-.highlight .gs,
-.highlight .gt,
-.highlight .ld,
-.highlight .s,
-.highlight .nc,
-.highlight .nd,
-.highlight .ne,
-.highlight .nl,
-.highlight .nn,
-.highlight .nx,
-.highlight .py,
-.highlight .ow,
-.highlight .w,
-.highlight .sb,
-.highlight .sc,
-.highlight .sd,
-.highlight .s2,
-.highlight .se,
-.highlight .sh,
-.highlight .si,
-.highlight .sx,
-.highlight .sr,
-.highlight .s1,
-.highlight .ss,
-.highlight .bp {
-    color: #C1C2C3
-}
-
-.highlight .k,
-.highlight .kc,
-.highlight .kd,
-.highlight .kn,
-.highlight .kp,
-.highlight .kr,
-.highlight .nt {
-    color: #729fcf
-}
-
-.highlight .cp,
-.highlight .gh,
-.highlight .gu,
-.highlight .na,
-.highlight .nf {
-    color: #E9A94B
-}
-
-.highlight .m,
-.highlight .nb,
-.highlight .no,
-.highlight .mf,
-.highlight .mh,
-.highlight .mi,
-.highlight .mo,
-.highlight .il {
-    color: #8ae234
-}
-
-.highlight .o {
-    color: #989DAA
-}
-
-.highlight .nv,
-.highlight .vc,
-.highlight .vg,
-.highlight .vi {
-    color: #fff
-}
+.highlight .hll { background-color: #ffffcc }
+.highlight  { background: #ffffff; }
+.highlight .c { color: #888888 } /* Comment */
+.highlight .err { color: #a61717; background-color: #e3d2d2 } /* Error */
+.highlight .k { color: #008800; font-weight: bold } /* Keyword */
+.highlight .cm { color: #888888 } /* Comment.Multiline */
+.highlight .cp { color: #cc0000; font-weight: bold } /* Comment.Preproc */
+.highlight .c1 { color: #888888 } /* Comment.Single */
+.highlight .cs { color: #cc0000; font-weight: bold; background-color: #fff0f0 } /* Comment.Special */
+.highlight .gd { color: #000000; background-color: #ffdddd } /* Generic.Deleted */
+.highlight .ge { font-style: italic } /* Generic.Emph */
+.highlight .gr { color: #aa0000 } /* Generic.Error */
+.highlight .gh { color: #333333 } /* Generic.Heading */
+.highlight .gi { color: #000000; background-color: #ddffdd } /* Generic.Inserted */
+.highlight .go { color: #888888 } /* Generic.Output */
+.highlight .gp { color: #555555 } /* Generic.Prompt */
+.highlight .gs { font-weight: bold } /* Generic.Strong */
+.highlight .gu { color: #666666 } /* Generic.Subheading */
+.highlight .gt { color: #aa0000 } /* Generic.Traceback */
+.highlight .kc { color: #008800; font-weight: bold } /* Keyword.Constant */
+.highlight .kd { color: #008800; font-weight: bold } /* Keyword.Declaration */
+.highlight .kn { color: #008800; font-weight: bold } /* Keyword.Namespace */
+.highlight .kp { color: #008800 } /* Keyword.Pseudo */
+.highlight .kr { color: #008800; font-weight: bold } /* Keyword.Reserved */
+.highlight .kt { color: #888888; font-weight: bold } /* Keyword.Type */
+.highlight .m { color: #0000DD; font-weight: bold } /* Literal.Number */
+.highlight .s { color: #dd2200; background-color: #fff0f0 } /* Literal.String */
+.highlight .na { color: #336699 } /* Name.Attribute */
+.highlight .nb { color: #003388 } /* Name.Builtin */
+.highlight .nc { color: #bb0066; font-weight: bold } /* Name.Class */
+.highlight .no { color: #003366; font-weight: bold } /* Name.Constant */
+.highlight .nd { color: #555555 } /* Name.Decorator */
+.highlight .ne { color: #bb0066; font-weight: bold } /* Name.Exception */
+.highlight .nf { color: #0066bb; font-weight: bold } /* Name.Function */
+.highlight .nl { color: #336699; font-style: italic } /* Name.Label */
+.highlight .nn { color: #bb0066; font-weight: bold } /* Name.Namespace */
+.highlight .py { color: #336699; font-weight: bold } /* Name.Property */
+.highlight .nt { color: #bb0066; font-weight: bold } /* Name.Tag */
+.highlight .nv { color: #336699 } /* Name.Variable */
+.highlight .ow { color: #008800 } /* Operator.Word */
+.highlight .w { color: #bbbbbb } /* Text.Whitespace */
+.highlight .mf { color: #0000DD; font-weight: bold } /* Literal.Number.Float */
+.highlight .mh { color: #0000DD; font-weight: bold } /* Literal.Number.Hex */
+.highlight .mi { color: #0000DD; font-weight: bold } /* Literal.Number.Integer */
+.highlight .mo { color: #0000DD; font-weight: bold } /* Literal.Number.Oct */
+.highlight .sb { color: #dd2200; background-color: #fff0f0 } /* Literal.String.Backtick */
+.highlight .sc { color: #dd2200; background-color: #fff0f0 } /* Literal.String.Char */
+.highlight .sd { color: #dd2200; background-color: #fff0f0 } /* Literal.String.Doc */
+.highlight .s2 { color: #dd2200; background-color: #fff0f0 } /* Literal.String.Double */
+.highlight .se { color: #0044dd; background-color: #fff0f0 } /* Literal.String.Escape */
+.highlight .sh { color: #dd2200; background-color: #fff0f0 } /* Literal.String.Heredoc */
+.highlight .si { color: #3333bb; background-color: #fff0f0 } /* Literal.String.Interpol */
+.highlight .sx { color: #22bb22; background-color: #f0fff0 } /* Literal.String.Other */
+.highlight .sr { color: #008800; background-color: #fff0ff } /* Literal.String.Regex */
+.highlight .s1 { color: #dd2200; background-color: #fff0f0 } /* Literal.String.Single */
+.highlight .ss { color: #aa6600; background-color: #fff0f0 } /* Literal.String.Symbol */
+.highlight .bp { color: #003388 } /* Name.Builtin.Pseudo */
+.highlight .vc { color: #336699 } /* Name.Variable.Class */
+.highlight .vg { color: #dd7700 } /* Name.Variable.Global */
+.highlight .vi { color: #3333bb } /* Name.Variable.Instance */
+.highlight .il { color: #0000DD; font-weight: bold } /* Literal.Number.Integer.Long */
 
 body {
     font-size: 1em;
-    line-height: 1.45
+    line-height: 1.45;
 }
 
 body .intro {
@@ -659,7 +643,7 @@ body .intro {
 @media (min-width: 43.75em) {
     body {
         font-size: 1em;
-        line-height: 1.375
+        line-height: 1.375;
     }
 }
 
@@ -676,7 +660,7 @@ h5,
 h6,
 .h6 {
     margin: .5rem 0 1.5rem;
-    font-family: "Open Sans", Helvetica, Arial, sans-serif
+    font-family: "Open Sans", Helvetica, Arial, sans-serif;
 }
 
 h1,
@@ -688,7 +672,7 @@ h1,
 @media (min-width: 43.75em) {
     h1,
     .h1 {
-        font-size: 2.5em;
+        font-size: 2em;
         line-height: 1.125
     }
 }
@@ -696,8 +680,8 @@ h1,
 @media (min-width: 56.25em) {
     h1,
     .h1 {
-        font-size: 3em;
-        line-height: 1.05
+        font-size: 2em;
+        line-height: 1.25;
     }
 }
 
@@ -794,14 +778,14 @@ html {
 *,
 *:before,
 *:after {
-    box-sizing: inherit
+    /*! box-sizing: inherit; */
 }
 
 body {
     font-family: "Lora", Georgia, Times, serif;
     line-height: 1.75;
     font-size: 112.5%;
-    color: #111;
+    color: #000;
     overflow-x: hidden
 }
 
@@ -812,7 +796,7 @@ body ul {
 
 ::-moz-selection {
     background: #B0C9DD;
-    color: white
+    color: white;
 }
 
 ::selection {
@@ -987,7 +971,7 @@ dd {
 .post .postTitle {
     text-align: center;
     margin-top: 2rem;
-    margin-bottom: 1rem
+    margin-bottom: 1rem;
 }
 
 .post blockquote {
@@ -1279,7 +1263,7 @@ dd {
     #home .posts,
     #home .pageTitle,
     #home .pagination {
-        width: 74.46809%;
+        width: 100%;
         float: left;
         margin-right: 2.12766%;
         float: none;
@@ -1309,7 +1293,7 @@ dd {
         clear: both
     }
     .header h1 {
-        font-size: 3em;
+        font-size: 2em;
         line-height: 1;
         letter-spacing: 2px;
         padding-left: 0
@@ -1365,7 +1349,7 @@ dd {
     .post ol,
     .post dl,
     .post .pageTitle {
-        width: 74.46809%;
+        width: 100%;
         float: left;
         margin-right: 2.12766%;
         float: none;
@@ -1383,7 +1367,7 @@ dd {
     .post .h5,
     .post h6,
     .post .h6 {
-        margin: 1rem auto
+        margin: 1rem auto;
     }
     .post .pageTitle {
         margin: 2rem auto 1em
