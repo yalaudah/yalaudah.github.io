@@ -11,7 +11,7 @@ title: About Me
 
 <div>
 
-  <p>I'm Yazeed Alaudah, a Ph.D. candidate at the School of Electrical & Computer Engineering at the Georgia Institute of Technology. My Ph.D. supervisor is  <a href="http://users.ece.gatech.edu/gregib/">Prof. Ghassan AlRegib</a>. I'm a member of the <a href="http://www2.ece.gatech.edu/research/labs/msl/index.html"> Multimedia and Sensors Lab (MSL)</a>, and the<a href= "http://cegp.ece.gatech.edu/"> Center for Energy and Geo Processing (CeGP)</a>.
+  <p>I'm Yazeed Alaudah, a Ph.D. candidate at the School of Electrical & Computer Engineering at the Georgia Institute of Technology. My Ph.D. supervisor is  <a href="http://users.ece.gatech.edu/gregib/">Prof. Ghassan AlRegib</a>. I'm a member of the <a href="https://ghassanalregib.com/"> Multimedia and Sensors Lab (MSL)</a>, and the<a href= "http://cegp.ece.gatech.edu/"> Center for Energy and Geo Processing (CeGP)</a>.
 
   My main research interests are related to image processing, computer vision, and machine learning. If you're interested, you can check my  <a href="http://www.yalaudah.com/publications"> publications list</a> or my <a href= "https://www.linkedin.com/in/alaudah"> LinkedIn profile </a>. If you'd like to contact me, feel free to fill the form below.</p>
 
