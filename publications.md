@@ -10,21 +10,21 @@ title: Publications
 
 {:reversed="reversed"}
 
-0. M. Alfarraj, **Y. Alaudah**, Z. Long, and G. AlRegib, “Multiresolution Analysis and Learning for Computational Seismic Interpretation,”  *The Leading Edge*, June 2018.
+0. M. Alfarraj, **Y. Alaudah**, Z. Long, and G. AlRegib, “Multiresolution Analysis and Learning for Computational Seismic Interpretation,”  *The Leading Edge*, February 2018.
 
-0. Z. Wang, H. Di, M. A. Shafiq, **Y. Alaudah**, and G. AlRegib, “Successful Leveraging of Image Processing and Machine Learning in Seismic Structural Interpretation: A Review”, submitted to *The Leading Edge*, March 2018.
+0. Z. Wang, H. Di, M. A. Shafiq, **Y. Alaudah**, and G. AlRegib, “Successful Leveraging of Image Processing and Machine Learning in Seismic Structural Interpretation: A Review”, The Leading Edge, 37(6), 451-461.
 
 0. **Y. Alaudah**, M. Alfarraj, and G. AlRegib, "Structure Label Prediction Using Similarity-Based Retrieval and Weakly-Supervised Label Mapping", submitted to *Geophysics*, January 2018.
 
 0. G. AlRegib, M. Deriche, Z. Long, H. Di, Z. Wang, **Y. Alaudah**, M. A. Shafiq, M. Alfarraj, “Subsurface Structure Analysis using Computational Interpretation and Learning”,  *IEEE Signal Processing Magazine*, March 2018.
 
-0. Z. Long, **Y. Alaudah**, M. A. Qureshi, Y. Hu, Z. Wang, M. Alfarraj, G. AlRegib, A. Amin, M. Deriche, and S. Al-Dharrab, “A comparative study of texture attributes for characterizing subsurface structures in migrated seismic volumes,” submitted to *Interpretation*, 2017.
+0. Z. Long, **Y. Alaudah**, M.A. Qureshi, Y. Hu, Z. Wang, M. Alfarraj, G. AlRegib, A. Amin, M. Deriche, S. Al-Dharrab, and H. Di, “A comparative study of texture attributes for characterizing subsurface structures in seismic volumes,” Interpretation, 2018.
 
 ### Conference Proceedings:
 
 {:reversed="reversed"}
 
-0. **Y. Alaudah**, S. Gao, and G. AlRegib, “Learning to Label Seismic Structures with Deconvolution Networks and Weak Labels”, submitted to *Expanded Abstracts of the SEG Annual Meeting*, Anaheim, CA, Oct. 14-19, 2018. [[**preprint**]](../assets/files/seg2018.pdf)
+0. **Y. Alaudah**, S. Gao, and G. AlRegib, “Learning to Label Seismic Structures with Deconvolution Networks and Weak Labels”, *Expanded Abstracts of the SEG Annual Meeting*, Anaheim, CA, Oct. 14-19, 2018. [[**preprint**]](../assets/files/seg2018.pdf)
 
 0. **Y. Alaudah** and G. AlRegib, “Weakly-Supervised Subsurface Structure Labeling,”  *SBGf/SEG Machine Learning Workshop*, Rio De Janeiro, Brazil, May 2018.
 
