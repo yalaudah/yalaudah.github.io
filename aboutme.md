@@ -6,7 +6,7 @@ title: About Me
 <h1 class="pageTitle">About Me</h1>
 
 <div>
-  <img src="{{ '/assets/img/yazeed.png' | prepend: site.baseurl }}" alt="" height="303" width="227" align="right" hspace="12" vspace="12">
+  <img src="{{ '/assets/img/yazeed.jpg' | prepend: site.baseurl }}" alt="" height="250" width="250" align="right" hspace="12" vspace="12">
 </div>
 
 <div>
