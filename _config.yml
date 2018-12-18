@@ -1,5 +1,5 @@
 title: Yazeed Alaudah
-description: I'm a PhD student at Georgia Tech
+description: 
 
 url: http://www.yalaudah.com
 baseurl: ""
@@ -12,7 +12,7 @@ gems:
   - jekyll-paginate
   - jemoji
   - jekyll-admin
-paginate: 5
+paginate: 6
 
 plugins: [jekyll-admin]
 
@@ -20,6 +20,8 @@ plugins: [jekyll-admin]
 navigation:
  - title: Home
    url: /index.html
+ - title: News
+   url: /news
  - title: Research
    url: /research
  - title: Publications
