@@ -10,6 +10,8 @@ title: Publications
 
 {:reversed="reversed"}
 
+0. **Y. Alaudah**, P. Michalowicz, M. Alfarraj, and G. AlRegib, “A Machine Learning Benchmark for Facies Classification,”  *Interpretation*, December 2018.
+
 0. M. Alfarraj, **Y. Alaudah**, Z. Long, and G. AlRegib, “Multiresolution Analysis and Learning for Computational Seismic Interpretation,”  *The Leading Edge*, June 2018.
 
 0. Z. Wang, H. Di, M. A. Shafiq, **Y. Alaudah**, and G. AlRegib, “Successful Leveraging of Image Processing and Machine Learning in Seismic Structural Interpretation: A Review”, submitted to *The Leading Edge*, March 2018.
