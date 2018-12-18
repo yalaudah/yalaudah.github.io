@@ -11,7 +11,6 @@ highlighter: rouge
 gems: 
   - jekyll-paginate
   - jemoji
-  - jekyll-admin
 paginate: 6
 
 plugins: [jekyll-admin]
