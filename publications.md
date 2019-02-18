@@ -16,7 +16,7 @@ title: Publications
 
 3. Z. Wang, H. Di, M. A. Shafiq, **Y. Alaudah**, and G. AlRegib, “Successful Leveraging of Image Processing and Machine Learning in Seismic Structural Interpretation: A Review”, The Leading Edge, 37(6), 451-461.
 
-4. Yazeed Alaudah, Motaz Alfarraj, and Ghassan AlRegib (2019). ”Structure label prediction using similarity-based retrieval and weakly supervised label mapping.” *Geophysics*, 84(1), V67-V79. [[**PDF**]](../assets/files/geo2018.pdf)[[**LINK**]](https://library.seg.org/doi/abs/10.1190/geo2018-0028.1)
+4. **Y. Alaudah**, M. Alfarraj, and G. AlRegib (2019). ”Structure label prediction using similarity-based retrieval and weakly supervised label mapping.” *Geophysics*, 84(1), V67-V79. [[**PDF**]](../assets/files/geo2018.pdf)[[**LINK**]](https://library.seg.org/doi/abs/10.1190/geo2018-0028.1)
 
 5. G. AlRegib, M. Deriche, Z. Long, H. Di, Z. Wang, **Y. Alaudah**, M. A. Shafiq, M. Alfarraj, “Subsurface Structure Analysis using Computational Interpretation and Learning”,  *IEEE Signal Processing Magazine*, March 2018.[[**PDF**]](../assets/files/spm2018.pdf)
 
