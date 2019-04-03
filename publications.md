@@ -26,6 +26,8 @@ title: Publications
 
 {:reversed="reversed"}
 
+0. **Y. Alaudah**, M. Soliman, and G. AlRegib, “Facies Classification with Weak and Strong Supervision -- A Comparative Study”, submitted to *Expanded Abstracts of the SEG Annual Meeting*, San Antonio, TX, Sep. 15-20, 2019.
+
 0. **Y. Alaudah**, S. Gao, and G. AlRegib, “Learning to Label Seismic Structures with Deconvolution Networks and Weak Labels”, *Expanded Abstracts of the SEG Annual Meeting*, Anaheim, CA, Oct. 14-19, 2018. [[**PDF**]](../assets/files/seg2018.pdf)[[**LINK**]](https://library.seg.org/doi/abs/10.1190/segam2018-2997865.1)
 
 0. **Y. Alaudah** and G. AlRegib, “Weakly-Supervised Subsurface Structure Labeling,”  *SBGf/SEG Machine Learning Workshop*, Rio De Janeiro, Brazil, May 2018.
