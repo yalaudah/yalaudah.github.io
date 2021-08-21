@@ -11,8 +11,9 @@ title: About Me
 
 <div>
 
-  <p>I'm a Ph.D. graduate from the School of Electrical & Computer Engineering at the Georgia Institute of Technology.   My main interests are related to computer vision, machine learning, and data science. If you're interested, you can check my  <a href="https://www.yalaudah.com/publications"> publications list</a>. If you'd like to contact me, feel free to fill the form below.</p>
+  <p>I'm a Ph.D. graduate from the School of Electrical & Computer Engineering at the Georgia Institute of Technology. I did my Ph.D. in <a href=" https://ghassanalregib.info/"> Prof. Ghassan Al-Regib's</a> lab focusing on developing machine learning techniques to solve challenging problems in the Energy space with limited annotated data. My main interests are related to computer vision, machine learning, data science, and their application to problems in energy and sustainability. If you're interested, you can check my  <a href="https://www.yalaudah.com/publications"> publications list</a>. If you'd like to contact me, feel free to fill the form below.</p>
 
+ 
 
 <form action="https://formspree.io/yalaudah@gmail.com" method="POST">
     <label for="name">Name</label>    
