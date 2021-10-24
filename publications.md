@@ -5,6 +5,12 @@ title: Publications
 
 <h1 class="pageTitle">Publications</h1>
 
+### Patents:
+
+1. TBA
+
+2. TBA
+
 ### Ph.D. Thesis:
 
 1. **Y. Alaudah**, “Weakly-supervised semantic labeling of migrated seismic data,” *Doctoral dissertation*, May 2019. [[**PDF**]](assets/files/thesis.pdf)[[**LINK**]](https://smartech.gatech.edu/handle/1853/61719)
@@ -30,6 +36,10 @@ title: Publications
 ### Conference Proceedings:
 
 {:reversed="reversed"}
+
+0. S. Wang, **et al.**, “Unsupervised Machine Learning framework for sensor placement optimization: analyzing methane leaks”, Conference on Neural Information Processing Systems  (NeurIPS 2021) proposal track. Dec. 6-14, 2021.
+
+0. K. Whitehall, **et al.**, “Detecting Methane Leaks Using Machine Learning Techniques on the Azure Cloud”, *American Geophysical Union Annual Meeting*, New Orleans, LA, Dec. 13-17, 2021.
 
 0. **Y. Alaudah**, M. Soliman, and G. AlRegib, “Facies Classification with Weak and Strong Supervision -- A Comparative Study”, *SEG Annual Meeting*, San Antonio, TX, Sep. 15-20, 2019.
 
