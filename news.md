@@ -5,7 +5,18 @@ title: News
 
 <h1 class="pageTitle">News</h1>
 
+https://youtu.be/v3n8txX3144?t=452
 
+<div style="background:#FFFFFF;border:4px solid #B0C9DD;padding:30px 30px 30px 30px;">
+Jan 30, 2020 
+<h3>A research paper of ours got featured in a Vox media video about the role of AI in the oil and gas industry</h3>
+<div>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/v3n8txX3144?start=453" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<hr>
+Our SEG 2018 conference paper got featured in a recent Vox media video relating to the role of AI in the oil and gas industry. The paper explores how automatically-generated weak labels can be effectively used to overcome the scarcity of fully annotated training data, and how they can be used to train powerful deep learning models for classifying seismic structures in large seismic volumes.
+</div>
+
+<br />
 <div style="background:#FFFFFF;border:4px solid #B0C9DD;padding:30px 30px 30px 30px;">
 May 2, 2019 
 <h3>Successfully Defended My Ph.D. Thesis </h3>
@@ -17,7 +28,6 @@ My Ph.D. journey has finally come to an end today. It has been a wonderful journ
 
 
 <br />
-
 <div style="background:#FFFFFF;border:4px solid #B0C9DD;padding:30px 30px 30px 30px;">
 December 6, 2018 
 <h3>CSIP Outstanding Research Award </h3>
