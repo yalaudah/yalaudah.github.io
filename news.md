@@ -5,8 +5,6 @@ title: News
 
 <h1 class="pageTitle">News</h1>
 
-https://youtu.be/v3n8txX3144?t=452
-
 <div style="background:#FFFFFF;border:4px solid #B0C9DD;padding:30px 30px 30px 30px;">
 Jan 30, 2020 
 <h3>A research paper of ours got featured in a Vox media video about the role of AI in the oil and gas industry</h3>
