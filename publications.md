@@ -43,7 +43,7 @@ title: Publications
 
 1. M. Milletari, S. Malvar, Y. Oruganti, L. Nunes, **Y. Alaudah**, and A. Badam, "Source Attribution and Leak Quantification for Methane Emissions", *The 8th International Conference on Machine Learning, Optimization, and Data Science (LOD 2022)*, Siena, Italy, Sep. 18-22, 2022. [[LINK]](https://www.microsoft.com/en-us/research/uploads/prod/2022/08/LOD2022-4.pdf) [[SPECIAL MENTION]](https://lod2022.icas.cc/best-paper-award/)
 
-2. S. Wang, S. Malvar, L. Nunes, K. Whitehall, Y. Oruganti, **Y. Alaudah**, and A. Badam, “Unsupervised Machine Learning framework for sensor placement optimization: analyzing methane leaks”, Conference on Neural Information Processing Systems (NeurIPS 2021), Dec. 6-14, 2021. [[NEURIPS LINK]](https://www.climatechange.ai/papers/neurips2021/70) [[MICROSOFT RESEARCH LINK]](https://www.microsoft.com/en-us/research/publication/unsupervised-machine-learning-framework-for-sensor-placement-optimization-analyzing-methane-leaks/)
+2. S. Wang, S. Malvar, L. Nunes, K. Whitehall, Y. Oruganti, **Y. Alaudah**, and A. Badam, “Unsupervised Machine Learning framework for sensor placement optimization: analyzing methane leaks”, *Conference on Neural Information Processing Systems (NeurIPS 2021)*, Dec. 6-14, 2021. [[NEURIPS LINK]](https://www.climatechange.ai/papers/neurips2021/70) [[MICROSOFT RESEARCH LINK]](https://www.microsoft.com/en-us/research/publication/unsupervised-machine-learning-framework-for-sensor-placement-optimization-analyzing-methane-leaks/)
 
 3. K. Whitehall, **et al.**, “Detecting Methane Leaks Using Machine Learning Techniques on the Azure Cloud”, *American Geophysical Union Annual Meeting*, New Orleans, LA, Dec. 13-17, 2021.
 
