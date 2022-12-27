@@ -23,9 +23,6 @@ navigation:
    url: /publications
  - title: About Me
    url: /aboutme
- - title: Login
-   url: https://mail.yalaudah.com
-
 
 social:
    github: yalaudah
