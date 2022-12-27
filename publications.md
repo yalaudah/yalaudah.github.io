@@ -9,15 +9,17 @@ title: Publications
 
 {:reversed="reversed"}
 
-1. S. Malvar, L. Nunes, M. Milletari, N. Talbert, **Y. Alaudah**, J. Reynolds, Y. Oruganti, A. Bhatia, and A. Badam, "Systems And Methods For Emission Source Attribution", USPTO Application No. 17/807,685, filed June 17, 2022.
+1. S. Malvar, L. Nunes, M. Milletari, N. Talbert, **Y. Alaudah**, J. Reynolds, Y. Oruganti, A. Bhatia, and A. Badam, "Systems And Methods For Emission Source Attribution", *USPTO Application No. 17/807,685*, filed June 17, 2022.
 
-2. S. Malvar, L. Nunes, M. Milletari, **Y. Alaudah**, Y. Oruganti, K. Whitehall, A. Badam, and S. Wang, "Pollutant Sensor Placement". USPTO Application No. 63/364022. Filed April, 21, 2022.
+2. S. Malvar, L. Nunes, M. Milletari, **Y. Alaudah**, Y. Oruganti, K. Whitehall, A. Badam, and S. Wang, "Pollutant Sensor Placement". *USPTO Application No. 63/364022*. Filed April, 21, 2022.
 
-3. C. Kelly, A. Bhatia, Y. Oruganti, **Y. Alaudah**, N. Talbert, S. Chen, K. Whitehall, and F. Zamanian, "Unsupervised Machine Learning Framework For Sensor Placement", USPTO Application No. 63/284,327, filed November 30, 2021.
+3. C. Kelly, A. Bhatia, Y. Oruganti, **Y. Alaudah**, N. Talbert, S. Chen, K. Whitehall, and F. Zamanian, "Unsupervised Machine Learning Framework For Sensor Placement", *USPTO Application No. 63/284,327*, filed November 30, 2021.
+
 
 ### Ph.D. Thesis:
 
 1. **Y. Alaudah**, “Weakly-supervised semantic labeling of migrated seismic data,” *Doctoral dissertation*, May 2019. [[**PDF**]](assets/files/thesis.pdf)[[**LINK**]](https://smartech.gatech.edu/handle/1853/61719)
+
 
 ### Journal Articles:
 
