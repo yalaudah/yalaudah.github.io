@@ -11,19 +11,25 @@ title: About Me
 
 <div>
 
-  <p>I'm a Ph.D. graduate from the School of Electrical & Computer Engineering at the Georgia Institute of Technology. I did my Ph.D. in <a href=" https://ghassanalregib.info/"> Prof. Ghassan Al-Regib's</a> lab focusing on developing machine learning techniques to solve challenging problems in the Energy space with limited annotated data. My main interests are related to computer vision, machine learning, data science, and their application to problems in energy and sustainability. If you're interested, you can check my  <a href="https://www.yalaudah.com/publications"> publications list</a>. If you'd like to contact me, feel free to fill the form below.</p>
+<p>
+I am a Ph.D. graduate from the School of Electrical & Computer Engineering at the Georgia Institute of Technology. My doctoral studies, completed under the supervision of <a href="https://ghassanalregib.info/"> Professor Ghassan Al-Regib</a>, focused on using machine learning techniques to address complex problems in the energy sector where limited annotated data presented a major challenge for the effective use of supervised machine learning. After completing my Ph.D., I worked as a machine learning engineer at <a href="https://airbusus.com/">Airbus Defense and Space</a> and am currently employed as a senior data scientist at Microsoft. My technical interests include cloud computing, computer vision, machine learning, data science, and their applications in energy and sustainability. If you are interested, you can view my publications list at <a href="https://www.yalaudah.com/publications">https://www.yalaudah.com/publications</a>. Please feel free to use the form below to contact me.
+</p>
 
- 
 
-<form action="https://formspree.io/yalaudah@gmail.com" method="POST">
-    <label for="name">Name</label>    
-    <input type="text" id="name" name="name" class="full-width"><br>
-    <label for="email">Email Address</label>
-    <input type="email" id="email" name="_replyto" class="full-width"><br>
-    <label for="message">Message</label>
-    <textarea name="message" id="message" cols="30" rows="10" class="full-width"></textarea><br>
-    <input type="submit" value="Send" class="button">
-  </form>
-
+<form
+  action="https://formspree.io/f/xnqyaeay"
+  method="POST"
+>
+  <label>
+    Your email:
+    <input type="email" name="email">
+  </label>
+  <label>
+    Your message:
+    <textarea name="message"></textarea>
+  </label>
+  <!-- your other form fields go here -->
+  <button type="submit">Send</button>
+</form>
 
 </div>
