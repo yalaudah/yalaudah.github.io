@@ -19,21 +19,6 @@ I am a Ph.D. graduate from the School of Electrical & Computer Engineering at th
 
 <div>
 
-<!-- <form
-  action="https://formspree.io/f/xnqyaeay"
-  method="POST"
->
-  <label>
-    Your email:
-    <input type="email" name="email">
-  </label>
-  <label>
-    Your message:
-    <textarea name="message"></textarea>
-  </label>
-  <!-- your other form fields go here -->
-  <button type="submit">Send</button>
-</form> -->
 
 <form action="https://formspree.io/f/xnqyaeay" method="POST">
     <label for="email">Your email:</label>

@@ -21,6 +21,7 @@ title: Publications
 1. **Y. Alaudah**, “Weakly-supervised semantic labeling of migrated seismic data,” *Doctoral dissertation*, May 2019. [[**PDF**]](assets/files/thesis.pdf)[[**LINK**]](https://smartech.gatech.edu/handle/1853/61719)
 
 
+
 ### Journal Articles:
 
 {:reversed="reversed"}
@@ -38,6 +39,7 @@ title: Publications
 6. G. AlRegib, M. Deriche, Z. Long, H. Di, Z. Wang, **Y. Alaudah**, M. A. Shafiq, M. Alfarraj, “Subsurface Structure Analysis using Computational Interpretation and Learning”,  *IEEE Signal Processing Magazine*, March 2018.[[**PDF**]](../assets/files/spm2018.pdf)
 
 7. Z. Long, **Y. Alaudah**, M.A. Qureshi, Y. Hu, Z. Wang, M. Alfarraj, G. AlRegib, A. Amin, M. Deriche, S. Al-Dharrab, and H. Di, “A comparative study of texture attributes for characterizing subsurface structures in seismic volumes,” Interpretation, 2018.
+
 
 ### Conference Proceedings:
 
