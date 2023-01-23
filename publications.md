@@ -11,9 +11,12 @@ title: Publications
 
 1. S. Malvar, L. Nunes, M. Milletari, N. Talbert, **Y. Alaudah**, J. Reynolds, Y. Oruganti, A. Bhatia, and A. Badam, "Systems And Methods For Emission Source Attribution", *USPTO Application No. 17/807,685*, filed June 17, 2022.
 
-2. S. Malvar, L. Nunes, M. Milletari, **Y. Alaudah**, Y. Oruganti, K. Whitehall, A. Badam, and S. Wang, "Pollutant Sensor Placement". *USPTO Application No. 63/364022*. Filed April 21, 2022.
+2. S. Malvar, L. Nunes, M. Milletari, **Y. Alaudah**, Y. Oruganti, K. Whitehall, A. Badam, and S. Wang, "Pollutant Sensor Placement". *USPTO Application No. 63/364,022*. Filed April 21, 2022.
 
-3. C. Kelly, A. Bhatia, Y. Oruganti, **Y. Alaudah**, N. Talbert, S. Chen, K. Whitehall, and F. Zamanian, "Unsupervised Machine Learning Framework For Sensor Placement", *USPTO Application No. 17/363,202*, filed June 30, 2021. [[**LINK**]](https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/20230007082)
+3. C. Kelly, A. Bhatia, Y. Oruganti, **Y. Alaudah**, N. Talbert, S. Chen, K. Whitehall, and F. Zamanian, "Unsupervised Machine Learning Framework For Sensor Placement", *USPTO Application No. 63/284,327*, filed November 30, 2021.
+
+4. C. Kelly, A. Bhatia, Y. Oruganti, P. Kumar, A. Badam, L. Nunes, S. Wang, **Y. Alaudah**, N. Talbert, X. Chen, F. Zamaninan, "Pollutant Sensor Placement", *USPTO Application No.* 17/363,202, filed June 30, 2021. [[**LINK**]](https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/20230007082)
+
 
 
 ### Ph.D. Thesis:
