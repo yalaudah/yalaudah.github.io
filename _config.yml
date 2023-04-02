@@ -1,0 +1,33 @@
+title: Yazeed Alaudah
+description: 
+
+url: http://www.yalaudah.com
+baseurl: ""
+paginate_path: "blog/page:num/"
+permalink: blog/:title/
+
+markdown: kramdown
+highlighter: rouge
+gems: 
+  - jekyll-paginate
+  - jemoji
+paginate: 6
+
+
+navigation:
+ - title: Home
+   url: /index.html
+ - title: News
+   url: /news
+ - title: Publications
+   url: /publications
+ - title: About Me
+   url: /aboutme
+
+social:
+   github: yalaudah
+   linkedin: yalaudah
+   email: hi@yalaudah.com
+   scholar: vjiWn5oAAAAJ
+
+google_analytics: "UA-74108555-1"
