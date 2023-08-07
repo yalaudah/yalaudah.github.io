@@ -12,7 +12,10 @@ title: About Me
 <div>
 
 <p>
-I am a Ph.D. graduate from the School of Electrical & Computer Engineering at the Georgia Institute of Technology. My doctoral studies, completed under the supervision of <a href="https://ghassanalregib.info/"> Professor Ghassan Al-Regib</a>, focused on using machine learning techniques to address complex problems in the energy sector where limited annotated data presented a major challenge for the effective use of supervised machine learning. I currently work as a senior data scientist at Microsoft. My technical interests include cloud computing, computer vision, machine learning, data science, and their applications in energy and sustainability. If you're interested, you can view my <a href="https://www.yalaudah.com/publications">publications list</a>. Please feel free to use the form below to contact me.
+
+I am a Ph.D. graduate from the School of Electrical & Computer Engineering at the Georgia Institute of Technology. My doctoral studies, completed under the supervision of <a href="https://ghassanalregib.info/"> Professor Ghassan Al-Regib</a>, focused on using machine learning techniques to address complex problems in the energy sector where limited annotated data presented a major challenge for the effective use of supervised machine learning. I'm currently a senior applied scientist at Microsoft. My technical interests include cloud computing, machine learning, data science, and their applications in energy and sustainability. I'm also passionate about startups and innovation that solves real world problems. 
+
+Please feel free to use the form below to contact me, and leave your email if you'd like me to get back to you.
 </p>
 
 </div>
