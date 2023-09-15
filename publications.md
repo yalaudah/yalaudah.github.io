@@ -9,7 +9,7 @@ title: Publications
 
 {:reversed="reversed"}
 
-1. S. Malvar, L. Nunes, M. Milletari, N. Talbert, **Y. Alaudah**, J. Reynolds, Y. Oruganti, A. Bhatia, and A. Badam, "Systems And Methods For Emission Source Attribution", *USPTO Application No. 17/807,685*, filed June 17, 2022.
+1. S. Malvar, L. Nunes, M. Milletari, N. Talbert, **Y. Alaudah**, J. Reynolds, Y. Oruganti, A. Bhatia, and A. Badam, "Systems And Methods For Emission Source Attribution", *USPTO Application No. 17/807,685*, filed June 17, 2022. [[**USPTO**]](https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/20230282316)
 
 2. S. Malvar, L. Nunes, M. Milletari, **Y. Alaudah**, Y. Oruganti, K. Whitehall, A. Badam, and S. Wang, "Pollutant Sensor Placement". *USPTO Application No. 63/364,022*. Filed April 21, 2022.
 
