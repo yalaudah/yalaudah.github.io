@@ -5,6 +5,25 @@ title: News
 
 <h1 class="pageTitle">News</h1>
 
+<br />
+<div style="background:#FFFFFF;border:4px solid #B0C9DD;padding:30px 30px 30px 30px;">
+September 2022
+<h3>Received Third Microsoft Patent Cube</h3>
+<div>
+<a><img alt="Microsoft Patent Cube" src="../assets/img/patent_cube.jpg" style="height: 200; float: center;" /></a></div>
+<hr>
+Honored to receive my third Microsoft Patent Cube for our work with Microsoft Research on AI-powered emissions monitoring:
+<ul>
+  <li><a href="https://patents.google.com/patent/US20230282316A1" target="_blank">US20230282316A1 – Systems &amp; methods for emission source attribution</a> – real‑time identification of greenhouse‑gas sources using physics-informed machine learning and micro-climate modeling.</li>
+  <li><a href="https://patents.google.com/patent/US20230169222A1" target="_blank">US20230169222A1 – Pollutant sensor placement</a> – optimizes sensor placement to maximize the likelihood of real-time methane leak detection while minimizing cost. </li>
+</ul>
+<p>I'm grateful for the opportunity to collaborate daily with such a talented team across Microsoft Research and Azure, and I look forward to continuing to push the boundaries of what’s possible.</p>
+</div>
+
+<br />
+
+
+
 <div style="background:#FFFFFF;border:4px solid #B0C9DD;padding:30px 30px 30px 30px;">
 Jan 30, 2020 
 <h3>A research paper of ours got featured in a Vox media video about the role of AI in the oil and gas industry</h3>
@@ -15,7 +34,7 @@ Our SEG 2018 conference paper got featured in a recent Vox media video relating 
 
 <br />
 <div style="background:#FFFFFF;border:4px solid #B0C9DD;padding:30px 30px 30px 30px;">
-May 2, 2019 
+May 2019 
 <h3>Successfully Defended My Ph.D. Thesis </h3>
 <div>
 <a><img alt="" src="../assets/img/phd.jpg" style="height: 200; float: center;" /></a> </div>
@@ -26,7 +45,7 @@ My Ph.D. journey has finally come to an end today. It has been a wonderful journ
 
 <br />
 <div style="background:#FFFFFF;border:4px solid #B0C9DD;padding:30px 30px 30px 30px;">
-December 6, 2018 
+December 2018 
 <h3>CSIP Outstanding Research Award </h3>
 <div>
 <a><img alt="" src="../assets/img/award.jpg" style="height: 200; float: center;" /></a> </div>
@@ -37,19 +56,19 @@ I'm glad to have been awarded the CSIP Outstanding Research Award from the Cente
 
 <br />
 <div style="background:#FFFFFF;border:4px solid #B0C9DD;padding:30px 30px 30px 30px;">
-May 16, 2018
+May 2018
 <h3> Joining Airbus Aerial for the summer </h3>
 <div>
 <a><img alt="" src="../assets/img/airbus.jpg" style="height: 500; float: center;" /></a> </div>
 <hr>
-I'm really excited to be joining <a href="https://airbusaerial.com/">Airbus Aerial</a> here in Atlanta as a machine learning engineer this summer. Airbus Aerial is a software startup, stationed in the beautiful Ponce City Market pictured above, that is owned by Airbus Defense and Space. The project I’ll be working on is related to using deep learning on satellite imagery, manned aircraft, and drones to help first responders and insurance companies assess damages after catastrophes such as hurricanes, tornadoes, wild fires, and volcanoes.
+I'm really excited to be joining <a href="https://airbusaerial.com/">Airbus Aerial</a> here in Atlanta as a machine learning engineer this summer. Airbus Aerial is a software startup, stationed in the beautiful Ponce City Market pictured above, that is owned by Airbus Defense and Space. The project I’ll be working on is related to using deep learning on satellite imagery, manned aircraft, and drones to help first responders and insurance companies assess damages after catastrophes such as hurricanes, tornadoes, and wild fires.
 </div>
 
 
 
 <br />
 <div style="background:#FFFFFF;border:4px solid #B0C9DD;padding:30px 30px 30px 30px;">
-May 14, 2017
+May 2017
 <h3>Research Internship at MERL </h3>
 <div>
 <a><img alt="" src="../assets/img/merl2.png" style="height: 500; float: center;" /></a> </div>
@@ -61,7 +80,7 @@ I'm very excited to join <a href="https://www.merl.com/">Mitsubishi Electric Res
 
 <br />
 <div style="background:#FFFFFF;border:4px solid #B0C9DD;padding:30px 30px 30px 30px;">
-May 16, 2016
+May 2016
 <h3>Summer internship at Panasonic Automotive's Innovation Center </h3>
 <div>
 <a><img alt="" src="../assets/img/PASAInnovationCenter.jpg" style="height: 500; float: center;" /></a> </div>
